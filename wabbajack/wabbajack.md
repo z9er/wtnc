@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Wabbajack
-nav_order: 4
+nav_order: 3
 has_children: true
+has_toc: false
 ---
 
 # Wabbajack
-
-Documentation for installing and managing the collection with Wabbajack and Mod Organizer 2.
