@@ -2,8 +2,11 @@ title: Welcome to Night City
 description: Documentation for Welcome to Night City and Cyberpunk THING
 remote_theme: just-the-docs/just-the-docs@v0.8.2
 color_scheme: dark
+nav_fold: false
+
 # Enable search
 search_enabled: true
+
 # Aux links for the upper right navigation
 aux_links:
   "WTNC on Nexus":
