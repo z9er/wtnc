@@ -2399,7 +2399,7 @@ nav_order: 6
 
 <details markdown="1">
 <summary><strong>Revision 454 - December 16, 2023</strong></summary>
-<p style="margin-top: 0.75em; margin-bottom: 0.1em;">Updated for and Compatible with version 2.1.<a href="https://www.cyberpunk.net/en/news/49597/update-2-1-patch-notes"> We have also now integrated the **Cyberpunk THING**<a href="https://next.nexusmods.com/cyberpunk2077/collections/yzoj3d"> collection into **Welcome to Night City**, where both distinct collections will now reside. Instructions for install are on the main page.</a></p>
+<p style="margin-top: 0.25em; margin-bottom: 0.5em;">Updated for and compatible with <a href="https://www.cyberpunk.net/en/news/49597/update-2-1-patch-notes">version 2.1.</a> We have also now integrated the <a href="https://next.nexusmods.com/cyberpunk2077/collections/yzoj3d">Cyberpunk THING</a> collection into <strong>Welcome to Night City</strong>, where both distinct collections will now reside. Instructions for install are on the main page.</p>
 
 ### Added Mods
 
