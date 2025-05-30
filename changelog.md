@@ -3110,9 +3110,7 @@ nav_order: 6
 
 <details markdown="1">
 <summary><strong>Revision 447 - October 1, 2023</strong></summary>
-&nbsp;
-
-Highly advise that you update to this if you just installed revision 446. It fixes an issue associated with Rita Wheeler who is the bouncer for Lizzie's. Additional info can be found [here](https://next.nexusmods.com/cyberpunk2077/collections/iszwwe?tab=comments\&commentId=49737)
+<p style="margin-top: 0.25em; margin-bottom: 0.5em;">Highly advise that you update to this if you just installed revision 446. It fixes an issue associated with Rita Wheeler who is the bouncer for Lizzie's. Additional info can be found <a href="https://next.nexusmods.com/cyberpunk2077/collections/iszwwe?tab=comments&commentId=49737">here</a></p>
 
 # Added
 
