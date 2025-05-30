@@ -1634,3 +1634,24 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 - [Sit Anywhere 1.3](https://www.nexusmods.com/cyberpunk2077/mods/7299)
 
 </details>
+
+<details markdown="1">
+<summary><strong>Revision 465 - March 24, 2024</strong></summary>
+
+### Updated Mods
+
+**World Interactions**
+
+- [Kabuki Gun Range Enhanced 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/13466)
+
+**Aesthetics**
+
+- [Diverse Death Screens 2024-03-24](https://www.nexusmods.com/cyberpunk2077/mods/12673)
+
+- [Equipment-EX 1.1.17](https://www.nexusmods.com/cyberpunk2077/mods/6945)
+
+**Utility**
+
+- [Codeware 1.8.2](https://www.nexusmods.com/cyberpunk2077/mods/7780)
+
+</details>
