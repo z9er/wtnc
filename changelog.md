@@ -3453,11 +3453,7 @@ nav_order: 6
 
 <details markdown="1">
 <summary><strong>Revision 440 - July 5, 2023</strong></summary>
-&nbsp;
-
-Fully compatible with and updated for version 1.63 Hotfix 1
-
-[A message from the curators](https://next.nexusmods.com/cyberpunk2077/collections/iszwwe?tab=comments\&commentId=34948)
+<p style="margin-top: 0.25em; margin-bottom: 0.5em;">Fully compatible with and updated for version 1.63 Hotfix 1<br><a href="https://next.nexusmods.com/cyberpunk2077/collections/iszwwe?tab=comments&commentId=34948">A message from the curators</a></p>
 
 # Added
 
