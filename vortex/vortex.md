@@ -4,5 +4,6 @@ title: Vortex
 nav_order: 2
 has_children: true
 has_toc: false
-redirect_to: /vortex/installation/
+redirect_from: /vortex/
+redirect_to: vortex/installation/
 ---
