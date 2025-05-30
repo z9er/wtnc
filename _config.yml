@@ -1,4 +1,4 @@
-title: Welcome to Night City
+title: WTNC
 description: Documentation for Welcome to Night City and Cyberpunk THING
 remote_theme: just-the-docs/just-the-docs@v0.8.2
 color_scheme: dark
@@ -9,7 +9,7 @@ search_enabled: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "WTNC on Nexus":
+  "Collection Page":
     - "https://next.nexusmods.com/cyberpunk2077/collections/iszwwe"
   "Discord":
     - "https://discord.gg/eJdMQKnQVt"
