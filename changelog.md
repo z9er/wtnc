@@ -1131,7 +1131,7 @@ nav_order: 6
 </details>
 
 <details markdown="1">
-<summary><strong>Revision 468 - August 5, 2024</strong></summary>
+<summary>Revision 468 - August 5, 2024</summary>
 
 ### Added Mods
 
