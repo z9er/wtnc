@@ -4,6 +4,10 @@ remote_theme: just-the-docs/just-the-docs@v0.8.2
 color_scheme: dark
 nav_fold: false
 
+# Plugins
+plugins:
+  - jekyll-redirect-from
+
 # Enable search
 search_enabled: true
 
