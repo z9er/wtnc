@@ -1915,3 +1915,173 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 - [Brendan - No Skill Check 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/12046)
 
 </details>
+
+<details markdown="1">
+<summary><strong>Revision 462 - February 12, 2024</strong></summary>
+
+### Added Mods
+
+**NPC Interactions**
+
+- [Pet Your Cat 2.2.3](https://www.nexusmods.com/cyberpunk2077/mods/6198)
+
+**Vehicles and Driving**
+
+- [Authentic Shift 2.12.39](https://www.nexusmods.com/cyberpunk2077/mods/6823)
+
+**Weapons**
+
+- [Slice and Dice 1.0](https://www.nexusmods.com/cyberpunk2077/mods/12948)
+
+**Cyberware**
+
+- [Kiroshi Optics Night Vision Mod 1.5](https://www.nexusmods.com/cyberpunk2077/mods/8326)
+
+**Aesthetics**
+
+- [Diverse Death Screens 2024-02-10](https://www.nexusmods.com/cyberpunk2077/mods/12673)
+
+- [Playable Arcade Machines 1.3](https://www.nexusmods.com/cyberpunk2077/mods/4213)
+
+**Quality of Life**
+
+- [Deadeye Sound Remover 1.0](https://www.nexusmods.com/cyberpunk2077/mods/12787)
+
+**Bug Fixes**
+
+- [Repeating Synaptic Accelerator Bug Fix 1.0](https://www.nexusmods.com/cyberpunk2077/mods/12850)
+
+### Updated Mods
+
+**Gameplay Mechanics**
+
+- [Stealthrunner 1.4.1](https://www.nexusmods.com/cyberpunk2077/mods/7616)
+
+**Vehicles and Driving**
+
+- [Virtual Car Dealer 2.1.3](https://www.nexusmods.com/cyberpunk2077/mods/4454)
+
+**Weapons**
+
+- [Midas Collection 1.0.3](https://www.nexusmods.com/cyberpunk2077/mods/11800)
+
+- [PS-11A Plasma Gun 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/11663)
+
+**Aesthetics**
+
+- [Equipment-EX 1.1.15](https://www.nexusmods.com/cyberpunk2077/mods/6945)
+
+**UI**
+
+- [Cleaner Main Menu and Pause Menu 2.11](https://www.nexusmods.com/cyberpunk2077/mods/10285)
+
+**Quality of Life**
+
+- [Only Smartweapon Crosshairs 1.3](https://www.nexusmods.com/cyberpunk2077/mods/5434)
+
+**Utility**
+
+- [ArchiveXL 1.11.3](https://www.nexusmods.com/cyberpunk2077/mods/4198)
+
+- [Codeware 1.7.1](https://www.nexusmods.com/cyberpunk2077/mods/7780)
+
+</details>
+
+<details markdown="1">
+<summary><strong>Revision 461 - February 1, 2024</strong></summary>
+
+### Added Mods
+
+**Weapons**
+
+- [Mjolnir 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/12695)
+
+### Updated Mods
+
+**Quests**
+
+- [Encore 2.1.3](https://www.nexusmods.com/cyberpunk2077/mods/8413)
+
+**NPC Interactions**
+
+- [Flaming Crotch Man Romanced 1.0.3](https://www.nexusmods.com/cyberpunk2077/mods/9573)
+
+**World Interactions**
+
+- [Immersive Rippers 2.0.6](https://www.nexusmods.com/cyberpunk2077/mods/7064)
+  
+- [Immersive Rippers - Dogtown 1.0.3](https://www.nexusmods.com/cyberpunk2077/mods/10255)
+  
+- [Interactive Judy's Apartment Devices 2.1.1](https://www.nexusmods.com/cyberpunk2077/mods/8099)
+  
+- [Night City Interactions 2.2.2](https://www.nexusmods.com/cyberpunk2077/mods/5519)
+
+**Cyberware**
+
+- [Heat Converter 1.1](https://www.nexusmods.com/cyberpunk2077/mods/11820)
+
+**Aesthetics**
+
+- [Equipment-EX 1.1.14](https://www.nexusmods.com/cyberpunk2077/mods/6945)
+  
+- [Immersive Timeskip 2.1.1](https://www.nexusmods.com/cyberpunk2077/mods/5115)
+
+**UI**
+
+- [Mark To Sell 2.4.0](https://www.nexusmods.com/cyberpunk2077/mods/4725)
+  
+- [Named Saves 2.4.0](https://www.nexusmods.com/cyberpunk2077/mods/4521)
+  
+- [Quickhack Hotkeys 2.1.1](https://www.nexusmods.com/cyberpunk2077/mods/7238)
+  
+- [Stash Filters 2.1.1](https://www.nexusmods.com/cyberpunk2077/mods/5298)
+
+**Quality of Life**
+
+- [Faster Checkpoints 1.0.3](https://www.nexusmods.com/cyberpunk2077/mods/9724)
+  
+- [Quickhack Loadouts 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/11682)
+
+**Utility**
+
+- [ArchiveXL 1.11.2](https://www.nexusmods.com/cyberpunk2077/mods/4198)
+  
+- [Codeware 1.7.0](https://www.nexusmods.com/cyberpunk2077/mods/7780)
+  
+- [Cyber Engine Tweaks 1.30.1](https://www.nexusmods.com/cyberpunk2077/mods/107)
+  
+- [Mod Settings 0.2.6](https://www.nexusmods.com/cyberpunk2077/mods/4885)
+  
+- [RED4ext 1.22.0](https://www.nexusmods.com/cyberpunk2077/mods/2380)
+  
+- [TweakXL 1.7.0](https://www.nexusmods.com/cyberpunk2077/mods/4197)
+
+### Removed Mods
+
+- [Authentic Shift 2.12.39](https://www.nexusmods.com/cyberpunk2077/mods/6823)
+  
+- [Car Modification Shop 2.1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/4034)
+  
+- [Fix Adrenaline (Overshield) Decay 1.4](https://www.nexusmods.com/cyberpunk2077/mods/9921)
+  
+- [Fix Max Cyberware Capacity 1.0](https://www.nexusmods.com/cyberpunk2077/mods/10354)
+  
+- [Kiroshi Optics Night Vision Mod 1.4](https://www.nexusmods.com/cyberpunk2077/mods/8326)
+  
+- [Kusanagi Neon Rims Bug Fix 2.3](https://www.nexusmods.com/cyberpunk2077/mods/11508)
+  
+- [Light Beams Fix 0.1](https://www.nexusmods.com/cyberpunk2077/mods/12381)
+  
+- [Longer Car Delivery Timers 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/9735)
+  
+- [Nano Drone 1.5](https://www.nexusmods.com/cyberpunk2077/mods/3419)
+  
+- [Patch 2.1 Finisher Fix 1.0](https://www.nexusmods.com/cyberpunk2077/mods/11453)
+  
+- [Pet Your Cat 2.2.3](https://www.nexusmods.com/cyberpunk2077/mods/6198)
+  
+- [Playable Arcade Machines 1.3](https://www.nexusmods.com/cyberpunk2077/mods/4213)
+  
+- [QuickSlot and Consumables Bug Fix 2.1](https://www.nexusmods.com/cyberpunk2077/mods/10811)
+
+</details>
