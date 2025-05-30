@@ -3447,3 +3447,19 @@ Compatible with and updated for version **2.0** and **Phantom Liberty**. If you 
 - [Kill Phantom Liberty Banner 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/8623)
 
 </details>
+
+<details markdown="1">
+<summary><strong>Revision 441 - July 8, 2023</strong></summary>
+
+# Updated
+
+**Utility**
+
+- [Native Settings UI 1.94](https://www.nexusmods.com/cyberpunk2077/mods/3518)
+
+# Removed
+
+- [Cyberdeck Tweaks 1.0](https://www.nexusmods.com/cyberpunk2077/mods/5055)
+
+</details>
+
