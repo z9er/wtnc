@@ -1,0 +1,10 @@
+// Import the existing dark theme as a base
+@import "./dark";
+
+// Override the link colors with your custom blue
+$link-color: #43A6C6;
+$btn-primary-color: #43A6C6;
+
+// If you want to change other blue elements too:
+$body-heading-color: #43A6C6; // For headings if they use blue
+$search-result-preview-color: #43A6C6; // Search highlights
