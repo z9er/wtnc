@@ -5,7 +5,7 @@ nav_order: 6
 ---
 
 ### Changelog
-
+<br>
 <details markdown="1">
 <summary><strong>Revision 478 - May 28, 2025</strong></summary>
 
