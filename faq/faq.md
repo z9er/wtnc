@@ -6,4 +6,6 @@ has_children: true
 has_toc: false
 ---
 
-# FAQ
+<script>
+  window.location.href = "/wtnc/faq/general";
+</script>
