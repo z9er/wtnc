@@ -2609,7 +2609,7 @@ nav_order: 6
 
 <details markdown="1">
 <summary><strong>Revision 452 - November 20, 2023</strong></summary>
-<p style="margin-top: 0.75em; margin-bottom: 0.1em;">As this revision removes Stock Market and News System<a href="https://www.nexusmods.com/cyberpunk2077/mods/6319"> due to a performance issue, you might want to sell any stocks you have before updating to this revision.</a></p>
+<p style="margin-top: 0.25em; margin-bottom: 0.5em;">As this revision removes <a href="https://www.nexusmods.com/cyberpunk2077/mods/6319">Stock Market and News System</a> due to a performance issue, you might want to sell any stocks you have before updating to this revision.</p>
 
 ### Added Mods
 
