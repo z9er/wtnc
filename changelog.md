@@ -2691,9 +2691,7 @@ nav_order: 6
 
 <details markdown="1">
 <summary><strong>Revision 451 - November 7, 2023</strong></summary>
-&nbsp;
-
-Updated for and Compatible with version **2.02**
+<p style="margin-top: 0.25em; margin-bottom: 0.5em;">Updated for and Compatible with version <strong>2.02</strong></p>
 
 ### Added Mods
 
