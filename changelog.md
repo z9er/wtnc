@@ -802,6 +802,7 @@ nav_order: 6
 <details markdown="1">
 <summary><strong>Revision 471 - September 15, 2024</strong></summary>
 &nbsp; 
+  
 Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news/50818/patch-2-13)
 
 ### Added Mods
