@@ -5,7 +5,7 @@ nav_order: 6
 ---
 
 ### Changelog
-<div style="margin-bottom: 0.9rem;"></div>
+<div style="margin-bottom: 1rem;"></div>
 <details markdown="1">
 <summary><strong>Revision 478 - May 28, 2025</strong></summary>
 
