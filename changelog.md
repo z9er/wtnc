@@ -213,7 +213,7 @@ Updated
 - [Reflex is Cool 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/15963)
 - [TweakXL 1.10.9](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-**Removed**
+### Removed
 
 - [Artistic 1.4.0](https://www.nexusmods.com/cyberpunk2077/mods/13066)
 - [Authentic Shift 2.12.39](https://www.nexusmods.com/cyberpunk2077/mods/6823)
@@ -384,7 +384,7 @@ Updated Mods
 - [Codeware 1.14.0](https://www.nexusmods.com/cyberpunk2077/mods/7780)
 - [TweakXL 1.10.7](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-Removed Mods
+### Removed
 
 - [Named Saves 2.5.0](https://www.nexusmods.com/cyberpunk2077/mods/4521)
 
@@ -475,7 +475,7 @@ Updated Mods
 - [Cyber Engine Tweaks 1.34.1](https://www.nexusmods.com/cyberpunk2077/mods/107)
 - [RED4ext 1.26.1](https://www.nexusmods.com/cyberpunk2077/mods/2380)
 
-Removed Mods
+### Removed
 
 - [Appearance Change Unlocker 2.3.1](https://www.nexusmods.com/cyberpunk2077/mods/3850)
 - [Artistic 1.3.1](https://www.nexusmods.com/cyberpunk2077/mods/13066)
@@ -608,7 +608,7 @@ Updated Mods
 - [Codeware 1.12.9](https://www.nexusmods.com/cyberpunk2077/mods/7780)
 - [Deceptious Quest Core 3.1.0](https://www.nexusmods.com/cyberpunk2077/mods/7831)
 
-### Removed Mods
+### Removed
 
 - [Arcade Anywhere 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/12378)
 - [Bug Fix - Base Fists and Arm Cyberware Attack Speed Fix 2.12.2024.04.09](https://www.nexusmods.com/cyberpunk2077/mods/14130)
@@ -678,7 +678,7 @@ Updated Mods
 - [Codeware 1.12.8](https://www.nexusmods.com/cyberpunk2077/mods/7780)
 - [TweakXL 1.10.5](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-### Removed Mods
+### Removed
 
 - [No More Out-Leveling Vendor Items 0.9](https://www.nexusmods.com/cyberpunk2077/mods/12500)
 
@@ -794,7 +794,7 @@ Updated Mods
 - [RED4ext 1.25.1](https://www.nexusmods.com/cyberpunk2077/mods/2380)
 - [redscript 0.5.27](https://www.nexusmods.com/cyberpunk2077/mods/1511)
 
-### Removed Mods
+### Removed
 
 - [Kanetsugu Short Scope Enhancement 2.12](https://www.nexusmods.com/cyberpunk2077/mods/14146)
 - [Quickhacks sort by slot 0.0.0.2](https://www.nexusmods.com/cyberpunk2077/mods/11425)
@@ -919,7 +919,7 @@ Updated Mods
 - [Cyber Engine Tweaks 1.32.3](https://www.nexusmods.com/cyberpunk2077/mods/107)
 - [TweakXL 1.10.4](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-### Removed Mods
+### Removed
 
 - [Buttslinger Quickmelee - Synergy Patch for Stealth Finishers](https://www.nexusmods.com/cyberpunk2077/mods/10556)
 - [Desert Snake 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/15310)
@@ -1053,7 +1053,7 @@ Updated Mods
 - [Cyber Engine Tweaks 1.32.3](https://www.nexusmods.com/cyberpunk2077/mods/107)
 - [TweakXL 1.10.4](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-### Removed Mods
+### Removed
 
 - [Buttslinger Quickmelee - Synergy Patch for Stealth Finishers](https://www.nexusmods.com/cyberpunk2077/mods/10556)
 - [Desert Snake 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/15310)
@@ -1197,7 +1197,7 @@ Updated Mods
 - [redscript 0.5.24](https://www.nexusmods.com/cyberpunk2077/mods/1511)
 - [TweakXL 1.10.1](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-### Removed Mods
+### Removed
 
 - [Japantown Cleaver Fix 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/14166)
 
@@ -1304,7 +1304,7 @@ Updated Mods
 - [redscript 0.5.19](https://www.nexusmods.com/cyberpunk2077/mods/1511)
 - [TweakXL 1.8.5](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-### Removed Mods
+### Removed
 
 - [Always First Equip 2.0.2](https://www.nexusmods.com/cyberpunk2077/mods/2557)
 - [Lean Anywhere 1.0](https://www.nexusmods.com/cyberpunk2077/mods/9938)
@@ -1536,7 +1536,7 @@ Updated Mods
 - [RED4ext 1.23.1](https://www.nexusmods.com/cyberpunk2077/mods/2380)  
 - [TweakXL 1.8.1](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-### Removed Mods
+### Removed
 
 - [Brendan - No Skill Check 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/12046)
 
@@ -1666,7 +1666,7 @@ Updated Mods
 - [RED4ext 1.22.0](https://www.nexusmods.com/cyberpunk2077/mods/2380)  
 - [TweakXL 1.7.0](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-### Removed Mods
+### Removed
 
 - [Authentic Shift 2.12.39](https://www.nexusmods.com/cyberpunk2077/mods/6823)  
 - [Car Modification Shop 2.1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/4034) 
@@ -1768,7 +1768,7 @@ Updated Mods
 - [ArchiveXL 1.10.4](https://www.nexusmods.com/cyberpunk2077/mods/4198)  
 - [TweakXL 1.6.2](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-### Removed Mods
+### Removed
 
 - [Ambush Compiler](https://www.nexusmods.com/cyberpunk2077/mods/11500)
 - [Database Fixes 1.04](https://www.nexusmods.com/cyberpunk2077/mods/10636)
@@ -1847,7 +1847,7 @@ Updated Mods
 - [ArchiveXL 1.10.3](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - [Native Settings UI 1.96](https://www.nexusmods.com/cyberpunk2077/mods/3518)
 
-### Removed Mods
+### Removed
 
 - [E3 Smart Windows 1.0](https://www.nexusmods.com/cyberpunk2077/mods/7026)
 - [Quickhack Loadouts - CET Hotkeys 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/11682)
@@ -1939,7 +1939,7 @@ Updated Mods
 - [redscript 0.5.17](https://www.nexusmods.com/cyberpunk2077/mods/1511)
 - [TweakXL 1.6.1](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-### Removed Mods
+### Removed
 
 - [No Intro Videos 0.4](https://www.nexusmods.com/cyberpunk2077/mods/533)  
 - [Authentic Shift 2.12.39](https://www.nexusmods.com/cyberpunk2077/mods/6823)
@@ -2069,7 +2069,7 @@ Updated Mods
 - [RED4ext 1.19.0](https://www.nexusmods.com/cyberpunk2077/mods/2380)
 - [TweakXL 1.6.0](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-### Removed Mods
+### Removed
 
 - [Adaptive Sliders 2023-10-12](https://www.nexusmods.com/cyberpunk2077/mods/5075)
 - [Car Modification Shop 2.0.0.1](https://www.nexusmods.com/cyberpunk2077/mods/4034)
@@ -2152,7 +2152,7 @@ Updated Mods
 - [Custom Quickslots 4.2.2](https://www.nexusmods.com/cyberpunk2077/mods/3096)
 - [Quick Message Exit 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/9377)
 
-### Removed Mods
+### Removed
 
 - [Stock Market and News System 1.3h](https://www.nexusmods.com/cyberpunk2077/mods/6319)
 
@@ -2277,7 +2277,7 @@ Updated Mods
 
 - [Equipment-EX 1.1.8](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 
-### Removed Mods
+### Removed
 
 - [Cyberpunk 2077 HD Reworked Project 2.0](https://www.nexusmods.com/cyberpunk2077/mods/7652)
 - [Fix Skill Progression Rewards Not Applying 1.0](https://www.nexusmods.com/cyberpunk2077/mods/9879)
@@ -2472,7 +2472,7 @@ Updated Mods
 - [RED4ext 1.17.0](https://www.nexusmods.com/cyberpunk2077/mods/2380)
 - [TweakXL 1.4.0](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-# Removed
+### Removed
 
 - [(entering new area) be gone 2.0](https://www.nexusmods.com/cyberpunk2077/mods/4361)  
 - [Named Saves 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/4521)
@@ -2523,7 +2523,7 @@ Updated Mods
 
 - [Input Loader 0.1.1](https://www.nexusmods.com/cyberpunk2077/mods/4575)
 
-# Removed
+### Removed
 
 - [Stop spammers 1.2.3](https://www.nexusmods.com/cyberpunk2077/mods/3801)
 
@@ -2666,7 +2666,7 @@ Updated Mods
 - [Codeware 1.1.10](https://www.nexusmods.com/cyberpunk2077/mods/7780)  
 - [TweakXL 1.2.1](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-# Removed
+### Removed
 
 - [More Inventory Filters 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/6879)
 
@@ -2705,7 +2705,7 @@ Updated Mods
 - [ArchiveXL 1.4.9](https://www.nexusmods.com/cyberpunk2077/mods/4198)  
 - [Codeware 1.1.7](https://www.nexusmods.com/cyberpunk2077/mods/7780)
 
-# Removed
+### Removed
 
 - [Subdermal Armor Level Scaling 2.1](https://www.nexusmods.com/cyberpunk2077/mods/4246)
 
@@ -2734,7 +2734,7 @@ Updated Mods
 
 - [Pet Your Cat 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/6198)
 
-# Removed
+### Removed
 
 - [Inventory Zoom 1.1](https://www.nexusmods.com/cyberpunk2077/mods/4776)
 - [Kill Phantom Liberty Banner 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/8623)
@@ -2750,7 +2750,7 @@ Updated Mods
 
 - [Native Settings UI 1.94](https://www.nexusmods.com/cyberpunk2077/mods/3518)
 
-# Removed
+### Removed
 
 - [Cyberdeck Tweaks 1.0](https://www.nexusmods.com/cyberpunk2077/mods/5055)
 
@@ -2786,7 +2786,7 @@ Updated Mods
 
 - [Improved Minimap Zoom 1.7.7](https://www.nexusmods.com/cyberpunk2077/mods/2959)
 
-# Removed
+### Removed
 
 - [Combat Crafting 1.0](https://www.nexusmods.com/cyberpunk2077/mods/4928)
 
