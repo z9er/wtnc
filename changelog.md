@@ -75,7 +75,7 @@ nav_order: 6
 <details markdown="1">
 <summary>Revision 477 - May 1, 2025</summary>
 
-Added
+### Added
 
 **Gameplay Mechanics**
 - [Better Movement - QOL Jog 1.0](https://www.nexusmods.com/cyberpunk2077/mods/20234)
@@ -224,7 +224,7 @@ Updated
 <details markdown="1">
 <summary>Revision 476 - January 25, 2025</summary>
 
-Added Mods
+### Added
 
 **Gameplay Mechanics**
 
@@ -299,7 +299,7 @@ Updated Mods
 <details markdown="1">
 <summary>Revision 475 - January 5, 2025</summary>
 
-Added Mods
+### ### Added
 
 **Gameplay Mechanics**
 
@@ -393,7 +393,7 @@ Removed Mods
 <details markdown="1">
 <summary>Revision 474 - December 14, 2024</summary>
 
-Added Mods
+### ### Added
 
 **Vehicles and Driving**
 
@@ -509,7 +509,7 @@ Removed Mods
 <details markdown="1">
 <summary>Revision 473 - November 18, 2024</summary>
 
-Added Mods
+### ### Added
 
 **Gameplay Mechanics**
 
@@ -627,7 +627,7 @@ Updated Mods
 <details markdown="1">
 <summary>Revision 472 - October 2, 2024</summary>
 
-### Added Mods
+### Added
 
 **UI**
 
@@ -688,7 +688,7 @@ Updated Mods
 <summary>Revision 471 - September 15, 2024</summary> 
 <p style="margin-top: 0.95em; margin-bottom: 0.1em;">Updated for and compatible with <a href="https://www.cyberpunk.net/en/news/50818/patch-2-13">version 2.13</a></p>
 
-### Added Mods
+### Added
 
 **Gameplay Mechanics**
 
@@ -804,7 +804,7 @@ Updated Mods
 <details markdown="1">
 <summary>Revision 469 - August 7, 2024</summary>
 
-### Added Mods
+### Added
 
 **Gameplay Mechanics**
 
@@ -940,7 +940,7 @@ Updated Mods
 <details markdown="1">
 <summary>Revision 468 - August 5, 2024</summary>
 
-### Added Mods
+### Added
 
 **Enemies and Difficulty**
 
@@ -1074,7 +1074,7 @@ Updated Mods
 <details markdown="1">
 <summary>Revision 467 - June 23, 2024</summary>
 
-### Added Mods
+### Added
 
 **Gameplay Mechanics**
 
@@ -1206,7 +1206,7 @@ Updated Mods
 <details markdown="1">
 <summary>Revision 466 - May 4, 2024</summary>
 
-### Added Mods
+### Added
 
 **Gameplay Mechanics**
 
@@ -1336,7 +1336,7 @@ Updated Mods
 <details markdown="1">
 <summary>Revision 464 - March 21, 2024</summary>
 
-### Added Mods
+### Added
 
 **NPC Interactions**
 
@@ -1431,7 +1431,7 @@ Updated Mods
 <details markdown="1">
 <summary>Revision 463 - March 4, 2024</summary>
 
-### Added Mods
+### Added
 
 **Gameplay Mechanics**
 
@@ -1545,7 +1545,7 @@ Updated Mods
 <details markdown="1">
 <summary>Revision 462 - February 12, 2024</summary>
 
-### Added Mods
+### Added
 
 **NPC Interactions**
 
@@ -1613,7 +1613,7 @@ Updated Mods
 <details markdown="1">
 <summary>Revision 461 - February 1, 2024</summary>
 
-### Added Mods
+### Added
 
 **Weapons**
 
@@ -1687,7 +1687,7 @@ Updated Mods
 <details markdown="1">
 <summary>Revision 460 - January 29, 2024</summary>
 
-### Added Mods
+### Added
 
 **Gameplay Mechanics**
 
@@ -1783,7 +1783,7 @@ Updated Mods
 <details markdown="1">
 <summary>Revision 459 - January 9, 2024</summary>
 
-### Added Mods
+### Added
 
 **Gameplay Mechanics**
 
@@ -1858,7 +1858,7 @@ Updated Mods
 <details markdown="1">
 <summary>Revision 457 - December 30, 2023</summary>
 
-### Added Mods
+### Added
 
 **Gameplay Mechanics**
 
@@ -1950,7 +1950,7 @@ Updated Mods
 <summary>Revision 454 - December 16, 2023</summary>
 <p style="margin-top: 0.95em; margin-bottom: 0.1em;">Updated for and compatible with <a href="https://www.cyberpunk.net/en/news/49597/update-2-1-patch-notes">version 2.1.</a> We have also now integrated the <a href="https://next.nexusmods.com/cyberpunk2077/collections/yzoj3d">Cyberpunk THING</a> collection into <strong>Welcome to Night City</strong>, where both distinct collections will now reside. Instructions for install are on the main page.</p>
 
-### Added Mods
+### Added
 
 **Gameplay Mechanics**
 
@@ -2096,7 +2096,7 @@ Updated Mods
 <summary>Revision 452 - November 20, 2023</summary>
 <p style="margin-top: 0.95em; margin-bottom: 0.1em;">As this revision removes <a href="https://www.nexusmods.com/cyberpunk2077/mods/6319">Stock Market and News System</a> due to a performance issue, you might want to sell any stocks you have before updating to this revision.</p>
 
-### Added Mods
+### Added
 
 **World and NPC Interactions**
 
@@ -2162,7 +2162,7 @@ Updated Mods
 <summary>Revision 451 - November 7, 2023</summary>
 <p style="margin-top: 0.95em; margin-bottom: 0.1em;">Updated for and Compatible with version <strong>2.02</strong></p>
 
-### Added Mods
+### Added
 
 **UI**
 
@@ -2289,7 +2289,7 @@ Updated Mods
 <details markdown="1">
 <summary>Revision 449 - October 17, 2023</summary>
 
-### Added Mods
+### Added
 
 **Gameplay Mechanics**
 
