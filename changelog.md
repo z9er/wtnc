@@ -75,7 +75,7 @@ nav_order: 6
 <details markdown="1">
 <summary>Revision 477 - May 1, 2025</summary>
 
-### Added
+Added
 
 **Gameplay Mechanics**
 - [Better Movement - QOL Jog 1.0](https://www.nexusmods.com/cyberpunk2077/mods/20234)
@@ -129,7 +129,7 @@ nav_order: 6
 **Utility**
 - [VendorsXL 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/19679)
 
-### Updated
+Updated
 
 **Gameplay Mechanics**
 - [Buttslinger Quickmelee 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/10556)
@@ -224,7 +224,7 @@ nav_order: 6
 <details markdown="1">
 <summary>Revision 476 - January 25, 2025</summary>
 
-### Added Mods
+Added Mods
 
 **Gameplay Mechanics**
 
@@ -238,7 +238,7 @@ nav_order: 6
 
 - [Nomad Cache - New Iconic Weapons 1.0](https://www.nexusmods.com/cyberpunk2077/mods/19234)
 
-### Updated Mods
+Updated Mods
 
 **Gameplay Mechanics**
 
@@ -299,7 +299,7 @@ nav_order: 6
 <details markdown="1">
 <summary>Revision 475 - January 5, 2025</summary>
 
-### Added Mods
+Added Mods
 
 **Gameplay Mechanics**
 
@@ -328,7 +328,7 @@ nav_order: 6
 - [Quickhack Fixes 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/18290)
 - [Slow Firing Rate on Longer Saves Bug Fix 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/18768)
 
-### Updated Mods
+Updated Mods
 
 **Gameplay Mechanics**
 
@@ -384,7 +384,7 @@ nav_order: 6
 - [Codeware 1.14.0](https://www.nexusmods.com/cyberpunk2077/mods/7780)
 - [TweakXL 1.10.7](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-### Removed Mods
+Removed Mods
 
 - [Named Saves 2.5.0](https://www.nexusmods.com/cyberpunk2077/mods/4521)
 
@@ -393,7 +393,7 @@ nav_order: 6
 <details markdown="1">
 <summary>Revision 474 - December 14, 2024</summary>
 
-### Added Mods
+Added Mods
 
 **Vehicles and Driving**
 
@@ -409,7 +409,7 @@ nav_order: 6
 - [Deceptious Bug Fixes 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/18318)
 - [Enemies Dodging Fix 0.11](https://www.nexusmods.com/cyberpunk2077/mods/17923)
 
-### Updated Mods
+Updated Mods
 
 **Gameplay Mechanics**
 
@@ -475,7 +475,7 @@ nav_order: 6
 - [Cyber Engine Tweaks 1.34.1](https://www.nexusmods.com/cyberpunk2077/mods/107)
 - [RED4ext 1.26.1](https://www.nexusmods.com/cyberpunk2077/mods/2380)
 
-### Removed Mods
+Removed Mods
 
 - [Appearance Change Unlocker 2.3.1](https://www.nexusmods.com/cyberpunk2077/mods/3850)
 - [Artistic 1.3.1](https://www.nexusmods.com/cyberpunk2077/mods/13066)
@@ -509,7 +509,7 @@ nav_order: 6
 <details markdown="1">
 <summary>Revision 473 - November 18, 2024</summary>
 
-### Added Mods
+Added Mods
 
 **Gameplay Mechanics**
 
@@ -547,7 +547,7 @@ nav_order: 6
 - [Glen Apartment - Pool Table 8-Ball Fix 1.0](https://www.nexusmods.com/cyberpunk2077/mods/11107)
 - [Missing Lipsync Bug Fix 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/17707)
 
-### Updated Mods
+Updated Mods
 
 **Gameplay Mechanics**
 
@@ -2098,7 +2098,7 @@ nav_order: 6
 
 ### Added Mods
 
-### World and NPC Interactions
+**World and NPC Interactions**
 
 - [Aurore Romanced 0.9.1](https://www.nexusmods.com/cyberpunk2077/mods/11097)
 
@@ -2110,7 +2110,7 @@ nav_order: 6
 
 ### Updated Mods
 
-### Utilities
+**Utilities**
 
 - [Browser Extension 0.9.4](https://www.nexusmods.com/cyberpunk2077/mods/10038)
 - [TweakXL 1.5.2](https://www.nexusmods.com/cyberpunk2077/mods/4197)
@@ -2119,7 +2119,7 @@ nav_order: 6
 
 - [Limited Hud 2.11.5](https://www.nexusmods.com/cyberpunk2077/mods/2592)
 
-### Gameplay
+**Gameplay**
 
 - [Buttslinger Quickmelee 1.2](https://www.nexusmods.com/cyberpunk2077/mods/10556)
 - [Buttslinger Quickmelee - Synergy Patch for Stealth Finishers](https://www.nexusmods.com/cyberpunk2077/mods/10556)
@@ -2128,7 +2128,7 @@ nav_order: 6
 - [Ricochet Redux 3.3.1](https://www.nexusmods.com/cyberpunk2077/mods/7197)
 - [Set Bonuses 2.02u2](https://www.nexusmods.com/cyberpunk2077/mods/8103)
 
-### World and NPC Interactions
+**World and NPC Interactions**
 
 - [Deceptious Quest Core 2.2.0](https://www.nexusmods.com/cyberpunk2077/mods/7831)
 - [Immersive Rippers 2.0.2](https://www.nexusmods.com/cyberpunk2077/mods/7064)
@@ -2171,7 +2171,7 @@ nav_order: 6
 - [Mark to Sell 2.2.0](https://www.nexusmods.com/cyberpunk2077/mods/4725)
 - [Muted Markers 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/1727)
 
-### Gameplay
+**Gameplay**
 
 - [Better Access Point Hacking Netrunner Rewards 1.0](https://www.nexusmods.com/cyberpunk2077/mods/10355)
 - [Body Shield 1.0](https://www.nexusmods.com/cyberpunk2077/mods/10533)
@@ -2180,7 +2180,7 @@ nav_order: 6
 - [Sensible Time Bomb 1.0](https://www.nexusmods.com/cyberpunk2077/mods/10575)
 - [Set Bonuses 2.02u1](https://www.nexusmods.com/cyberpunk2077/mods/8103)
 
-### World and NPC Interactions
+**World and NPC Interactions**
 
 - [Apartment Cats - Dogtown 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/10325)
 - [Dance Off 1.0.0]( https://www.nexusmods.com/cyberpunk2077/mods/10615)
@@ -2221,7 +2221,7 @@ nav_order: 6
 
 ### Updated Mods
 
-### Utilities
+**Utilities**
 
 - [ArchiveXL 1.8.1](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - [Codeware 1.5.0](https://www.nexusmods.com/cyberpunk2077/mods/7780)
@@ -2236,12 +2236,12 @@ nav_order: 6
 - [Limited Hud 2.11.1](https://www.nexusmods.com/cyberpunk2077/mods/2592)
 - [Named Saves 2.2.0](https://www.nexusmods.com/cyberpunk2077/mods/4521)
 
-### Gameplay
+**Gameplay**
 
 - [Keep Drawing the Line 2.2](https://www.nexusmods.com/cyberpunk2077/mods/7198)
 - [Ricochet Redux 3.1](https://www.nexusmods.com/cyberpunk2077/mods/7197)
 
-### World and NPC Interactions
+**World and NPC Interactions**
 
 - [Apartment Cats - Custom Cats 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/6837)
 - [Immersive Bartenders 1.2.0]( https://www.nexusmods.com/cyberpunk2077/mods/7203)
@@ -2485,7 +2485,7 @@ nav_order: 6
 
 # Added
 
-### Vehicles and Diving
+**Vehicles and Diving**
 
 - [Car Modification Shop 2.0.0.1](https://www.nexusmods.com/cyberpunk2077/mods/4034)
 - [Extra Vehicle Controls 2.0h](https://www.nexusmods.com/cyberpunk2077/mods/3225)
