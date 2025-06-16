@@ -1763,7 +1763,7 @@ nav_order: 6
 - [Custom Quickslots 4.4.3](https://www.nexusmods.com/cyberpunk2077/mods/3096)
 - [Metro Pocket Guide 1.2.3](https://www.nexusmods.com/cyberpunk2077/mods/11882)
 
-**Utilities** Mods
+**Utilities**
   
 - [ArchiveXL 1.10.4](https://www.nexusmods.com/cyberpunk2077/mods/4198)  
 - [TweakXL 1.6.2](https://www.nexusmods.com/cyberpunk2077/mods/4197)
