@@ -129,7 +129,7 @@ nav_order: 6
 **Utilities**
 - [VendorsXL 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/19679)
 
-Updated
+### Updated
 
 **Gameplay Mechanics**
 - [Buttslinger Quickmelee 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/10556)
@@ -238,7 +238,7 @@ Updated
 
 - [Nomad Cache - New Iconic Weapons 1.0](https://www.nexusmods.com/cyberpunk2077/mods/19234)
 
-Updated Mods
+### Updated
 
 **Gameplay Mechanics**
 
@@ -328,7 +328,7 @@ Updated Mods
 - [Quickhack Fixes 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/18290)
 - [Slow Firing Rate on Longer Saves Bug Fix 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/18768)
 
-Updated Mods
+### Updated
 
 **Gameplay Mechanics**
 
@@ -393,7 +393,7 @@ Updated Mods
 <details markdown="1">
 <summary>Revision 474 - December 14, 2024</summary>
 
-### ### Added
+### Added
 
 **Vehicles and Driving**
 
@@ -409,7 +409,7 @@ Updated Mods
 - [Deceptious Bug Fixes 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/18318)
 - [Enemies Dodging Fix 0.11](https://www.nexusmods.com/cyberpunk2077/mods/17923)
 
-Updated Mods
+### Updated
 
 **Gameplay Mechanics**
 
@@ -547,7 +547,7 @@ Updated Mods
 - [Glen Apartment - Pool Table 8-Ball Fix 1.0](https://www.nexusmods.com/cyberpunk2077/mods/11107)
 - [Missing Lipsync Bug Fix 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/17707)
 
-Updated Mods
+### Updated
 
 **Gameplay Mechanics**
 
@@ -639,7 +639,7 @@ Updated Mods
 - [Decals Flickering Fix 0.12](https://www.nexusmods.com/cyberpunk2077/mods/16579)
 - [Rasetsu screens bug fix ](https://www.nexusmods.com/cyberpunk2077/mods/16896)
 
-### Updated Mods
+### Updated
 
 **Gameplay Mechanics**
 
@@ -719,7 +719,7 @@ Updated Mods
 - [Eddies Notification Fix 1.01](https://www.nexusmods.com/cyberpunk2077/mods/16420)
 - [Passenger Targeting Fix 1.0](https://www.nexusmods.com/cyberpunk2077/mods/16541) 
 
-### Updated Mods
+### Updated
 
 **Gameplay Mechanics**
 
@@ -845,7 +845,7 @@ Updated Mods
 
 - [V's Apartment TV Volume Fix 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/15893)
 
-### Updated Mods
+### Updated
 
 **Gameplay Mechanics**
 
@@ -977,7 +977,7 @@ Updated Mods
 
 - [V's Apartment TV Volume Fix 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/15893)
 
-### Updated Mods
+### Updated
 
 **Gameplay Mechanics**
 
@@ -1120,7 +1120,7 @@ Updated Mods
 - [Gamepad Button Hold Indicator Fix 1.0](https://www.nexusmods.com/cyberpunk2077/mods/13780)
 - [In Cold Blood - NPC Execution Fix 1.0](https://www.nexusmods.com/cyberpunk2077/mods/14880)
 
-### Updated Mods
+### Updated
 
 **Gameplay Mechanics**
 
@@ -1252,7 +1252,7 @@ Updated Mods
 - [TV Audio Fixes 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/14014)
 - [TV Mute Control 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/14149)
 
-### Updated Mods
+### Updated
 
 **Gameplay Mechanics**
 
@@ -1316,7 +1316,7 @@ Updated Mods
 <details markdown="1">
 <summary>Revision 465 - March 24, 2024</summary>
 
-### Updated Mods
+### Updated
 
 **World Interactions**
 
@@ -1365,7 +1365,7 @@ Updated Mods
 - [Fix Adrenaline Decay 1.5](https://www.nexusmods.com/cyberpunk2077/mods/9921)
 - [News Audio Fix 1.01](https://www.nexusmods.com/cyberpunk2077/mods/13756)
 
-### Updated Mods
+### Updated
 
 **Gameplay Mechanics**
 
@@ -1471,7 +1471,7 @@ Updated Mods
 
 - [Only Smartweapon Crosshairs - Deadeye Perk Fix 1.0](https://www.nexusmods.com/cyberpunk2077/mods/13421)
 
-### Updated Mods
+### Updated
 
 **Gameplay Mechanics**
 
@@ -1576,7 +1576,7 @@ Updated Mods
 
 - [Repeating Synaptic Accelerator Bug Fix 1.0](https://www.nexusmods.com/cyberpunk2077/mods/12850)
 
-### Updated Mods
+### Updated
 
 **Gameplay Mechanics**
 
@@ -1619,7 +1619,7 @@ Updated Mods
 
 - [Mjolnir 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/12695)
 
-### Updated Mods
+### Updated
 
 **Quests**
 
@@ -1717,7 +1717,7 @@ Updated Mods
 - [Computer Anywhere 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/12520)
 - [No More Out-Leveling Vendor Items 0.9](https://www.nexusmods.com/cyberpunk2077/mods/12500)
 
-### Updated Mods
+### Updated
 
 **Gameplay Mechanics**
 
@@ -1811,7 +1811,7 @@ Updated Mods
 
 - [Crafting Recipe Owned Labels 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/11261)
 
-### Updated Mods
+### Updated
 
 **NPC Interactions**
 
@@ -1888,7 +1888,7 @@ Updated Mods
 - [Radio Port Vehicle Fix 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/11757)
 - [Kusanagi Neon Rims Bug Fix 2.3](https://www.nexusmods.com/cyberpunk2077/mods/11508)
 
-### Updated Mods
+### Updated
 
 **Gameplay Mechanics**
 
@@ -1980,7 +1980,7 @@ Updated Mods
 - [Allow Unbound Actions 1.0](https://www.nexusmods.com/cyberpunk2077/mods/11429)
 - [Patch 2.1 Finisher Fix 1.0](https://www.nexusmods.com/cyberpunk2077/mods/11453)
 
-### Updated Mods
+### Updated
 
 **Gameplay Mechanics**
 
@@ -2108,7 +2108,7 @@ Updated Mods
 - [Perk Selling Extra Point Gain Bug Fix 1.0](https://www.nexusmods.com/cyberpunk2077/mods/10857)
 - [QuickSlot and Consumables Bug Fix 2.02](https://www.nexusmods.com/cyberpunk2077/mods/10811)
 
-### Updated Mods
+### Updated
 
 **Utilities**
 
@@ -2219,7 +2219,7 @@ Updated Mods
 - [Disable W-S Keys To Select Dialogue Options 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/9799)
 - [Fix Max Cyberware Capacity 1.0](https://www.nexusmods.com/cyberpunk2077/mods/10354)
 
-### Updated Mods
+### Updated
 
 **Utilities**
 
@@ -2332,7 +2332,7 @@ Updated Mods
 
 - [Mod Settings 0.2.1](https://www.nexusmods.com/cyberpunk2077/mods/4885)
 
-### Updated Mods
+### Updated
 
 **Gameplay Mechanics**
 
@@ -2434,7 +2434,7 @@ Updated Mods
 
 - [QoL - Fix for holotext shadows with RT or PT 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/8663)
 
-# Updated
+### Updated
 
 **Quests**
 
@@ -2513,7 +2513,7 @@ Updated Mods
 
 - [Don't Hide Stamina Bar on Holster (Bug Fix) 1.0](https://www.nexusmods.com/cyberpunk2077/mods/9448)
 
-# Updated
+### Updated
 
 **NPC Interactions**
 
@@ -2539,7 +2539,7 @@ Updated Mods
 
 - [Rita Wheeler Romanced 2.0.1](https://www.nexusmods.com/cyberpunk2077/mods/9191)
 
-# Updated
+### Updated
 
 **Gameplay Mechanics**
 
@@ -2633,7 +2633,7 @@ Updated Mods
 
 - [QoL - Fix for the Arasaka nuke being on the 21st 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/9004)
 
-# Updated
+### Updated
 
 **NPC Interactions**
 
@@ -2723,7 +2723,7 @@ Updated Mods
 - [I Really Want To Stay At Your House - Panam 0.9.6](https://www.nexusmods.com/cyberpunk2077/mods/8775)  
 - [I Really Want To Stay At Your House - River 0.9.5](https://www.nexusmods.com/cyberpunk2077/mods/8826)
 
-# Updated
+### Updated
 
 **Gameplay Mechanics**
 
@@ -2744,7 +2744,7 @@ Updated Mods
 <details markdown="1">
 <summary>Revision 441 - July 8, 2023</summary>
 
-# Updated
+### Updated
 
 **Utilities**
 
@@ -2766,7 +2766,7 @@ Updated Mods
 
 - [Show Item level on crafting and upgrading 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/8701)
 
-# Updated
+### Updated
 
 **Quests**
 
