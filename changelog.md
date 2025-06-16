@@ -65,7 +65,7 @@ nav_order: 6
 - [Judy Identity Privacy 1.1](https://www.nexusmods.com/cyberpunk2077/mods/17486)
 - [Quickhack Fixes 1.2.16](https://www.nexusmods.com/cyberpunk2077/mods/18290)
 
-**Utility**
+**Utilities**
 - [ArchiveXL 1.23.0](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - [Codeware 1.16.0](https://www.nexusmods.com/cyberpunk2077/mods/7780)
 - [TweakXL 1.10.10](https://www.nexusmods.com/cyberpunk2077/mods/4197)
@@ -126,7 +126,7 @@ Added
 - [Hammers are not bats 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/20217)
 - [Mod Settings - Gallery Patch 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/21169)
 
-**Utility**
+**Utilities**
 - [VendorsXL 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/19679)
 
 Updated
@@ -207,7 +207,7 @@ Updated
 - [Fix Advert Animations 1.1](https://www.nexusmods.com/cyberpunk2077/mods/17726)
 - [Quickhack Fixes 1.2.10](https://www.nexusmods.com/cyberpunk2077/mods/18290)
 
-**Utility**
+**Utilities**
 - [ArchiveXL 1.22.0](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - [redscript 0.5.28](https://www.nexusmods.com/cyberpunk2077/mods/1511)
 - [Reflex is Cool 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/15963)
@@ -287,7 +287,7 @@ Updated Mods
 - [Deceptious Bug Fixes 1.1.5](https://www.nexusmods.com/cyberpunk2077/mods/18318)
 - [Quickhack Fixes 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/18290)
 
-**Utility**
+**Utilities**
 
 - [ArchiveXL 1.21.1](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - [Codeware 1.15.0](https://www.nexusmods.com/cyberpunk2077/mods/7780)
@@ -378,7 +378,7 @@ Updated Mods
 - [Deceptious Bug Fixes 1.1.4](https://www.nexusmods.com/cyberpunk2077/mods/18318)
 - [Status Bar Bug Fixes 1.7](https://www.nexusmods.com/cyberpunk2077/mods/4316)
 
-**Utility**
+**Utilities**
 
 - [ArchiveXL 1.19.4](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - [Codeware 1.14.0](https://www.nexusmods.com/cyberpunk2077/mods/7780)
@@ -468,7 +468,7 @@ Updated Mods
 - [Faster Checkpoints 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/9724)
 - [Throttled Activity Log 1.1](https://www.nexusmods.com/cyberpunk2077/mods/17674)
 
-**Utility**
+**Utilities**
 
 - [ArchiveXL 1.18.0](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - [Codeware 1.13.0](https://www.nexusmods.com/cyberpunk2077/mods/7780)
@@ -602,7 +602,7 @@ Updated Mods
 
 - [In Cold Blood - NPC Execution Fix 1.2](https://www.nexusmods.com/cyberpunk2077/mods/14880)
 
-**Utility**
+**Utilities**
 
 - [ArchiveXL 1.17.0](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - [Codeware 1.12.9](https://www.nexusmods.com/cyberpunk2077/mods/7780)
@@ -673,7 +673,7 @@ Updated Mods
 - [Cop Killer - NCPD Fixes ncpdf-1.3](https://www.nexusmods.com/cyberpunk2077/mods/14652)
 - [Passenger Targeting Fix 1.1](https://www.nexusmods.com/cyberpunk2077/mods/16541)
 
-**Utility**
+**Utilities**
 
 - [Codeware 1.12.8](https://www.nexusmods.com/cyberpunk2077/mods/7780)
 - [TweakXL 1.10.5](https://www.nexusmods.com/cyberpunk2077/mods/4197)
@@ -786,7 +786,7 @@ Updated Mods
 
 - [In Cold Blood 1.1](https://www.nexusmods.com/cyberpunk2077/mods/14880)
 
-**Utility**
+**Utilities**
 
 - [ArchiveXL 1.16.9](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - [Codeware 1.12.7](https://www.nexusmods.com/cyberpunk2077/mods/7780)
@@ -912,7 +912,7 @@ Updated Mods
 - [Cop Killer - NCPD Fixes ncpdf-1.2](https://www.nexusmods.com/cyberpunk2077/mods/14652)
 - [TV Audio Fixes 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/14014)
 
-**Utility**
+**Utilities**
 
 - [ArchiveXL 1.16.4](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - [Codeware 1.12.3](https://www.nexusmods.com/cyberpunk2077/mods/7780)
@@ -1046,7 +1046,7 @@ Updated Mods
 - [Cop Killer - NCPD Fixes ncpdf-1.2](https://www.nexusmods.com/cyberpunk2077/mods/14652)
 - [TV Audio Fixes 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/14014)
 
-**Utility**
+**Utilities**
 
 - [ArchiveXL 1.16.3](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - [Codeware 1.12.3](https://www.nexusmods.com/cyberpunk2077/mods/7780)
@@ -1188,7 +1188,7 @@ Updated Mods
 
 - [TV Adverts Fixes 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/13973)
 
-**Utility**
+**Utilities**
 
 - [ArchiveXL 1.15.0](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - [Codeware 1.11.0](https://www.nexusmods.com/cyberpunk2077/mods/7780)
@@ -1296,7 +1296,7 @@ Updated Mods
 - [Custom Quickslots 4.4.4](https://www.nexusmods.com/cyberpunk2077/mods/3096)
 - [Metro Pocket Guide 1.2.5](https://www.nexusmods.com/cyberpunk2077/mods/11882)
 
-**Utility**
+**Utilities**
 
 - [ArchiveXL 1.14.1](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - [Codeware 1.9.1](https://www.nexusmods.com/cyberpunk2077/mods/7780)
@@ -1327,7 +1327,7 @@ Updated Mods
 - [Diverse Death Screens 2024-03-24](https://www.nexusmods.com/cyberpunk2077/mods/12673)
 - [Equipment-EX 1.1.17](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 
-**Utility**
+**Utilities**
 
 - [Codeware 1.8.2](https://www.nexusmods.com/cyberpunk2077/mods/7780)
 
@@ -1417,7 +1417,7 @@ Updated Mods
 
 - [The Hunt quest missing audio restore 2.0.3](https://www.nexusmods.com/cyberpunk2077/mods/7413)
 
-**Utility**
+**Utilities**
 
 - [ArchiveXL 1.12.2](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - [Codeware 1.8.2](https://www.nexusmods.com/cyberpunk2077/mods/7780)
@@ -1526,7 +1526,7 @@ Updated Mods
 - [Only Smartweapon Crosshairs 1.41](https://www.nexusmods.com/cyberpunk2077/mods/5434)  
 - [Smarter Scrapper 2.3.3](https://www.nexusmods.com/cyberpunk2077/mods/2687)
 
-**Utility**
+**Utilities**
 
 - [ArchiveXL 1.12.0](https://www.nexusmods.com/cyberpunk2077/mods/4198)  
 - [Codeware 1.8.0](https://www.nexusmods.com/cyberpunk2077/mods/7780)  
@@ -1603,7 +1603,7 @@ Updated Mods
 
 - [Only Smartweapon Crosshairs 1.3](https://www.nexusmods.com/cyberpunk2077/mods/5434)
 
-**Utility**
+**Utilities**
 
 - [ArchiveXL 1.11.3](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - [Codeware 1.7.1](https://www.nexusmods.com/cyberpunk2077/mods/7780)
@@ -1657,7 +1657,7 @@ Updated Mods
 - [Faster Checkpoints 1.0.3](https://www.nexusmods.com/cyberpunk2077/mods/9724)  
 - [Quickhack Loadouts 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/11682)
 
-**Utility**
+**Utilities**
 
 - [ArchiveXL 1.11.2](https://www.nexusmods.com/cyberpunk2077/mods/4198)  
 - [Codeware 1.7.0](https://www.nexusmods.com/cyberpunk2077/mods/7780)  
@@ -1763,7 +1763,7 @@ Updated Mods
 - [Custom Quickslots 4.4.3](https://www.nexusmods.com/cyberpunk2077/mods/3096)
 - [Metro Pocket Guide 1.2.3](https://www.nexusmods.com/cyberpunk2077/mods/11882)
 
-**Utility** Mods
+**Utilities** Mods
   
 - [ArchiveXL 1.10.4](https://www.nexusmods.com/cyberpunk2077/mods/4198)  
 - [TweakXL 1.6.2](https://www.nexusmods.com/cyberpunk2077/mods/4197)
@@ -1842,7 +1842,7 @@ Updated Mods
 - [Custom Quickslots 4.4.2](https://www.nexusmods.com/cyberpunk2077/mods/3096)
 - [Metro Pocket Guide 1.2.2](https://www.nexusmods.com/cyberpunk2077/mods/11882)
 
-**Utility**
+**Utilities**
 
 - [ArchiveXL 1.10.3](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - [Native Settings UI 1.96](https://www.nexusmods.com/cyberpunk2077/mods/3518)
@@ -1931,7 +1931,7 @@ Updated Mods
 
 - [Quickhacks sort by slot 0.0.0.2](https://www.nexusmods.com/cyberpunk2077/mods/11425)
 
-**Utility**
+**Utilities**
 
 - [ArchiveXL 1.10.2](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - [Codeware 1.6.1](https://www.nexusmods.com/cyberpunk2077/mods/7780)
@@ -2058,7 +2058,7 @@ Updated Mods
 - [QuickSlot and Consumables Bug Fix 2.1](https://www.nexusmods.com/cyberpunk2077/mods/10811)
 - [Status Bar Bug Fixes 1.6](https://www.nexusmods.com/cyberpunk2077/mods/4316)
 
-**Utility**
+**Utilities**
 
 - [ArchiveXL 1.10.1](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - [Browser Extension 0.9.5](https://www.nexusmods.com/cyberpunk2077/mods/10038)
@@ -2328,7 +2328,7 @@ Updated Mods
 - [Fix Skill Progression Rewards Not Applying 1.0](https://www.nexusmods.com/cyberpunk2077/mods/9879)
 - [Sprint Fix 1.2](https://www.nexusmods.com/cyberpunk2077/mods/9753)
 
-**Utility**
+**Utilities**
 
 - [Mod Settings 0.2.1](https://www.nexusmods.com/cyberpunk2077/mods/4885)
 
@@ -2385,7 +2385,7 @@ Updated Mods
 
 - [Status Bar Bug Fixes 1.5](https://www.nexusmods.com/cyberpunk2077/mods/4316)
 
-**Utility**
+**Utilities**
 
 - [Codeware 1.4.1](https://www.nexusmods.com/cyberpunk2077/mods/7780)
 - [TweakXL 1.4.3](https://www.nexusmods.com/cyberpunk2077/mods/4197)
@@ -2464,7 +2464,7 @@ Updated Mods
 
 - [Simple Flashlight 2.5](https://www.nexusmods.com/cyberpunk2077/mods/2913)
 
-**Utility**
+**Utilities**
 
 - [ArchiveXL 1.7.0](https://www.nexusmods.com/cyberpunk2077/mods/4198)  
 - [Codeware 1.3.0](https://www.nexusmods.com/cyberpunk2077/mods/7780)  
@@ -2519,7 +2519,7 @@ Updated Mods
 
 - [Rita Wheeler Romanced 2.1.0](https://www.nexusmods.com/cyberpunk2077/mods/9191)
 
-**Utility**
+**Utilities**
 
 - [Input Loader 0.1.1](https://www.nexusmods.com/cyberpunk2077/mods/4575)
 
@@ -2611,7 +2611,7 @@ Updated Mods
 
 - [Status Bar Bug Fixes 1.4](https://www.nexusmods.com/cyberpunk2077/mods/4316)
 
-**Utility**
+**Utilities**
 
 - [ArchiveXL 1.6.0](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - [Codeware 1.2.1](https://www.nexusmods.com/cyberpunk2077/mods/7780)
@@ -2660,7 +2660,7 @@ Updated Mods
 
 - [Hacking Bug Fixes 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/7000)
 
-**Utility**
+**Utilities**
 
 - [ArchiveXL 1.5.10](https://www.nexusmods.com/cyberpunk2077/mods/4198)  
 - [Codeware 1.1.10](https://www.nexusmods.com/cyberpunk2077/mods/7780)  
@@ -2700,7 +2700,7 @@ Updated Mods
 
 - [Equipment-EX 0.9.9](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 
-**Utility**
+**Utilities**
 
 - [ArchiveXL 1.4.9](https://www.nexusmods.com/cyberpunk2077/mods/4198)  
 - [Codeware 1.1.7](https://www.nexusmods.com/cyberpunk2077/mods/7780)
@@ -2746,7 +2746,7 @@ Updated Mods
 
 # Updated
 
-**Utility**
+**Utilities**
 
 - [Native Settings UI 1.94](https://www.nexusmods.com/cyberpunk2077/mods/3518)
 
