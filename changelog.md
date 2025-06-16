@@ -2395,7 +2395,7 @@ Updated Mods
 <details markdown="1">
 <summary>Revision 448 - October 7, 2023</summary>
 
-# Added
+### Added
 
 **Gameplay Mechanics**
 
@@ -2483,7 +2483,7 @@ Updated Mods
 <summary>Revision 447 - October 1, 2023</summary>
 <p style="margin-top: 0.95em; margin-bottom: 0.1em;">Highly advise that you update to this if you just installed revision 446. It fixes an issue associated with Rita Wheeler who is the bouncer for Lizzie's. Additional info can be found <a href="https://next.nexusmods.com/cyberpunk2077/collections/iszwwe?tab=comments&commentId=49737">here</a></p>
 
-# Added
+### Added
 
 **Vehicles and Diving**
 
@@ -2533,7 +2533,7 @@ Updated Mods
 <summary>Revision 446 - September 29, 2023</summary>
 <p style="margin-top: 0.95em; margin-bottom: 0.1em;">Compatible with and updated for version <strong>2.0</strong> and <strong>Phantom Liberty</strong>. If you are coming with a modded save or one from <strong>revision 445 or earlier</strong> you will need to start a new save, otherwise, if it is a vanilla save or a new game you are free to add this to your game at anytime.</p>
 
-# Added
+### Added
 
 **NPC Interactions**
 
@@ -2627,7 +2627,7 @@ Updated Mods
 <details markdown="1">
 <summary>Revision 445 - August 21, 2023</summary>
 
-# Added
+### Added
 
 **Aesthetics**
 
@@ -2675,7 +2675,7 @@ Updated Mods
 <details markdown="1">
 <summary>Revision 444 - August 3, 2023</summary>
 
-# Added
+### Added
 
 **World Interactions**
 
@@ -2714,7 +2714,7 @@ Updated Mods
 <details markdown="1">
 <summary>Revision 443 - July 21, 2023</summary>
 
-# Added
+### Added
 
 **NPC Interactions**
 
@@ -2760,7 +2760,7 @@ Updated Mods
 <summary>Revision 440 - July 5, 2023</summary>
 <p style="margin-top: 0.95em; margin-bottom: 0.1em;">Fully compatible with and updated for version 1.63 Hotfix 1<br><a href="https://next.nexusmods.com/cyberpunk2077/collections/iszwwe?tab=comments&commentId=34948">A message from the curators</a></p>
 
-# Added
+### Added
 
 **Quality of Life**
 
