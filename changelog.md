@@ -299,7 +299,7 @@ nav_order: 6
 <details markdown="1">
 <summary>Revision 475 - January 5, 2025</summary>
 
-### ### Added
+### Added
 
 **Gameplay Mechanics**
 
@@ -509,7 +509,7 @@ nav_order: 6
 <details markdown="1">
 <summary>Revision 473 - November 18, 2024</summary>
 
-### ### Added
+### Added
 
 **Gameplay Mechanics**
 
