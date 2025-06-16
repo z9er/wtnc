@@ -2334,10 +2334,6 @@ nav_order: 6
 
 ### Updated
 
-**Gameplay Mechanics**
-
-**Enemies and Difficulty**
-
 **Quests**
 
 - [Californication 2.1.0](https://www.nexusmods.com/cyberpunk2077/mods/7833)
@@ -2681,7 +2677,7 @@ nav_order: 6
 
 - [Apartment Cats - Custom Cats 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/6837)
 
-# Upgraded
+### Updated
 
 **NPC Interactions**
 
