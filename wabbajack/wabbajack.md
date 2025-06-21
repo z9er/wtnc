@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wabbajack
-nav_order: 4
+nav_order: 3
 ---
 
 # Wabbajack Installation Guide
