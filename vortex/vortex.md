@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Vortex
-nav_order: 2
+nav_order: 3
 ---
 
 ## Vortex Installation Guide
