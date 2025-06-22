@@ -23,29 +23,3 @@
     color: #67B7D1;
   }
 </style>
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  // Find the FAQ link
-  const faqLink = document.querySelector('a.nav-list-link[href*="faq"]');
-  if (faqLink) {
-    // Make it unclickable
-    faqLink.style.pointerEvents = 'none';
-    faqLink.style.cursor = 'default';
-    faqLink.style.opacity = '0.6';
-    
-    // Find and hide the expander arrow
-    const expander = faqLink.parentElement.querySelector('.nav-list-expander');
-    if (expander) {
-      expander.style.display = 'none';
-    }
-    
-    // Find and always show the children
-    const childList = faqLink.parentElement.querySelector('ul.nav-list');
-    if (childList) {
-      childList.style.display = 'block';
-      childList.classList.add('active');
-    }
-  }
-});
-</script>
