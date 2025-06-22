@@ -7,6 +7,6 @@ has_toc: false
 ---
 
 <script>
-  window.location.href = "/wtnc/Nexus Mods App/Install";
+  window.location.href = "/wtnc/Nexus-Mods-App/Install";
 </script>
 
