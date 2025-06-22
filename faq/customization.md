@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Customization
-parent: FAQ
 nav_order: 6
 ---
 
