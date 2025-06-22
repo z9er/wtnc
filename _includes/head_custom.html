@@ -24,19 +24,26 @@
   }
 
   /* Make FAQ non-clickable header */
-  .nav-list-item > .nav-list-link[href*="/faq/"]:first-child {
-    pointer-events: none !important;
-    cursor: default !important;
-    opacity: 0.6;
-  }
-  
-  /* Hide FAQ dropdown arrow */
-  .nav-list-item > .nav-list-expander[href*="/faq/"] {
-    display: none !important;
-  }
-  
-  /* Always show FAQ children */
-  .nav-list-item > .nav-list > .nav-list-item > .nav-list-link[href*="/faq/"] {
-    display: block !important;
-  }
+.nav-list-item > .nav-list-link[href$="/faq/"] {
+  pointer-events: none !important;
+  cursor: default !important;
+  opacity: 0.6;
+}
+
+/* Hide FAQ dropdown arrow */
+.nav-list-item > .nav-list-expander[data-href$="/faq/"] {
+  display: none !important;
+}
+
+/* Always show FAQ children */
+.nav-list-item:has(.nav-list-link[href$="/faq/"]) > .nav-list {
+  display: block !important;
+}
+
+/* Make sure FAQ children ARE clickable */
+.nav-list-item .nav-list-item .nav-list-link {
+  pointer-events: auto !important;
+  cursor: pointer !important;
+  opacity: 1 !important;
+}
 </style>
