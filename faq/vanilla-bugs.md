@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vanilla Bugs
+parent: FAQ
 nav_order: 5
 ---
 
