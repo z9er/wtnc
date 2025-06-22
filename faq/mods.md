@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Mod Features
-parent: FAQ
 nav_order: 4
 ---
 
