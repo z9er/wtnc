@@ -1,6 +1,7 @@
 ---
 layout: default
 title: General FAQ
+parent: FAQ
 nav_order: 1
 ---
 
