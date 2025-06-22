@@ -5,3 +5,4 @@ has_children: true
 has_toc: false
 ---
 
+<script> window.location.href = "/wtnc/faq/install"; </script>
