@@ -23,27 +23,30 @@
     color: #67B7D1;
   }
 
-  /* Make FAQ non-clickable header */
-.nav-list-item > .nav-list-link[href$="/faq/"] {
-  pointer-events: none !important;
-  cursor: default !important;
-  opacity: 0.6;
-}
-
-/* Hide FAQ dropdown arrow */
-.nav-list-item > .nav-list-expander[data-href$="/faq/"] {
+  /* Hide FAQ dropdown arrow completely */
+a.nav-list-expander[href$="/faq/"] {
   display: none !important;
 }
 
-/* Always show FAQ children */
-.nav-list-item:has(.nav-list-link[href$="/faq/"]) > .nav-list {
-  display: block !important;
+/* Make FAQ non-clickable and styled as header */
+a.nav-list-link[href$="/faq/"] {
+  pointer-events: none !important;
+  cursor: default !important;
+  color: #959da5 !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  font-size: 0.75rem !important;
+  letter-spacing: 0.1em !important;
 }
 
-/* Make sure FAQ children ARE clickable */
-.nav-list-item .nav-list-item .nav-list-link {
-  pointer-events: auto !important;
-  cursor: pointer !important;
-  opacity: 1 !important;
+/* Always show FAQ children - force expand */
+.nav-list-item:has(> a[href$="/faq/"]) > ul.nav-list {
+  display: block !important;
+  height: auto !important;
+}
+
+/* Remove active state from FAQ parent */
+a.nav-list-link[href$="/faq/"].active {
+  background: none !important;
 }
 </style>
