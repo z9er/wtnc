@@ -22,4 +22,21 @@
   .nav-list-item .nav-list-link.active {
     color: #67B7D1;
   }
+
+  /* Make FAQ non-clickable header */
+  .nav-list-item > .nav-list-link[href*="/faq/"]:first-child {
+    pointer-events: none !important;
+    cursor: default !important;
+    opacity: 0.6;
+  }
+  
+  /* Hide FAQ dropdown arrow */
+  .nav-list-item > .nav-list-expander[href*="/faq/"] {
+    display: none !important;
+  }
+  
+  /* Always show FAQ children */
+  .nav-list-item > .nav-list > .nav-list-item > .nav-list-link[href*="/faq/"] {
+    display: block !important;
+  }
 </style>
