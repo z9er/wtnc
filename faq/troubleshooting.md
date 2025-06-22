@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Troubleshooting
-parent: FAQ
 nav_order: 3
 ---
 
