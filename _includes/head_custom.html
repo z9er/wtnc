@@ -25,32 +25,6 @@
 </style>
 
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-  // Find the FAQ navigation item
-  const faqLink = document.querySelector('a.nav-list-link[href$="/faq/"]');
-  if (faqLink) {
-    const faqItem = faqLink.closest('.nav-list-item');
-    if (faqItem) {
-      // Find the child list
-      const childList = faqItem.querySelector(':scope > .nav-list');
-      if (childList) {
-        childList.style.display = 'block';
-        childList.classList.add('active');
-      }
-      
-      // Find the expander arrow
-      const expander = faqItem.querySelector(':scope > .nav-list-expander');
-      if (expander) {
-        expander.classList.add('active');
-      }
-    }
-  }
-});
-</script>
-If that doesn't work, try this alternative that waits a bit for the page to fully load:
-
-html
-<script>
 window.addEventListener('load', function() {
   setTimeout(function() {
     // Click the FAQ expander to open it
@@ -61,8 +35,4 @@ window.addEventListener('load', function() {
   }, 100);
 });
 </script>
-This second approach simulates clicking the expander arrow, which should definitely open it.
-
-
-
 
