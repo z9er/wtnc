@@ -32,28 +32,18 @@
   .nav-list-item:has(a[href*="/faq/"]) > .nav-list-expander {
     display: none !important;
   }
+  
+  /* Set initial expanded state for NMA, Wabbajack, and Vortex */
+  .nav-list-item:has(a[href*="/nma/"]) > ul.nav-list:not(.nav-list-top),
+  .nav-list-item:has(a[href*="/wabbajack/"]) > ul.nav-list:not(.nav-list-top),
+  .nav-list-item:has(a[href*="/vortex/"]) > ul.nav-list:not(.nav-list-top) {
+    display: block;
+  }
+  
+  /* Ensure the expander arrows show the correct state initially */
+  .nav-list-item:has(a[href*="/nma/"]) > .nav-list-expander[aria-expanded="false"] svg,
+  .nav-list-item:has(a[href*="/wabbajack/"]) > .nav-list-expander[aria-expanded="false"] svg,
+  .nav-list-item:has(a[href*="/vortex/"]) > .nav-list-expander[aria-expanded="false"] svg {
+    transform: rotate(-90deg);
+  }
 </style>
-
-<script>
-  // Auto-expand sections on page load
-  document.addEventListener('DOMContentLoaded', function() {
-    setTimeout(function() {
-      // Find all nav items with children
-      const navItems = document.querySelectorAll('.nav-list-item');
-      
-      navItems.forEach(function(item) {
-        const link = item.querySelector('a.nav-list-link');
-        if (link && (link.href.includes('/nma/') || link.href.includes('/wabbajack/') || link.href.includes('/vortex/'))) {
-          const expander = item.querySelector('.nav-list-expander');
-          if (expander) {
-            // Check if it's currently collapsed (aria-expanded is false or doesn't exist)
-            const isCollapsed = expander.getAttribute('aria-expanded') !== 'true';
-            if (isCollapsed) {
-              expander.click();
-            }
-          }
-        }
-      });
-    }, 100); // Small delay to ensure DOM is fully ready
-  });
-</script>
