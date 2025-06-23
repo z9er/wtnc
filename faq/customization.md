@@ -213,8 +213,4 @@ this is a test answer
 
 </details>
 
-<script>
-document.querySelector('details').open = true;
-</script>
-
 
