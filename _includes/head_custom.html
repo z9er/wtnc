@@ -56,35 +56,54 @@
 </style>
 
 <script>
-  // Handle parent nav items - toggle if open, navigate if closed
   document.addEventListener('DOMContentLoaded', function() {
-    // Wait a bit for Just the Docs to initialize
+    // Auto-expand sections on load
     setTimeout(function() {
-      // Find the parent links
-      const parentLinks = document.querySelectorAll('.nav-list-item > a[href$="/nma/"], .nav-list-item > a[href$="/wabbajack/"], .nav-list-item > a[href$="/vortex/"]');
+      const sectionsToExpand = ['nma', 'wabbajack', 'vortex'];
+      
+      sectionsToExpand.forEach(function(section) {
+        const link = document.querySelector('a[href$="/' + section + '/"]');
+        if (link) {
+          const navItem = link.closest('.nav-list-item');
+          const expander = navItem ? navItem.querySelector('.nav-list-expander') : null;
+          
+          if (expander && expander.getAttribute('aria-expanded') === 'false') {
+            expander.click();
+          }
+        }
+      });
+    }, 200);
+    
+    // Handle click behavior - toggle if expanded, navigate if collapsed
+    setTimeout(function() {
+      const parentLinks = document.querySelectorAll('a[href$="/nma/"], a[href$="/wabbajack/"], a[href$="/vortex/"]');
       
       parentLinks.forEach(function(link) {
+        // Store original href
+        const originalHref = link.href;
+        
         link.addEventListener('click', function(e) {
-          // Find the nav item and check if it has children
           const navItem = link.closest('.nav-list-item');
-          const expander = navItem.querySelector('.nav-list-expander');
-          const childList = navItem.querySelector('ul.nav-list');
+          const expander = navItem ? navItem.querySelector('.nav-list-expander') : null;
+          const childList = navItem ? navItem.querySelector(':scope > ul.nav-list') : null;
           
           if (expander && childList) {
-            // Check if currently expanded
-            const isExpanded = expander.getAttribute('aria-expanded') === 'true' || 
-                             childList.style.display === 'block' ||
-                             !childList.classList.contains('hidden');
+            // Multiple ways to check if expanded
+            const expanderExpanded = expander.getAttribute('aria-expanded') === 'true';
+            const listVisible = window.getComputedStyle(childList).display !== 'none';
+            const isExpanded = expanderExpanded || listVisible;
             
             if (isExpanded) {
-              // If expanded, prevent navigation and collapse
+              // Prevent navigation and collapse
               e.preventDefault();
+              e.stopPropagation();
               expander.click();
+              return false;
             }
-            // If collapsed, allow normal navigation (which will redirect to install page)
           }
+          // If collapsed or no expander, allow normal navigation
         });
       });
-    }, 100);
+    }, 300);
   });
 </script>
