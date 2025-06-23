@@ -1,57 +1,50 @@
-<style>
-  /* Custom link colors */
-  a {
-    color: #67B7D1;
+<script>
+// Wait for the page AND Just the Docs navigation to fully load
+window.addEventListener('load', function() {
+  // Function to disable parent links
+  function disableParentLinks() {
+    const parentLinks = document.querySelectorAll('.nav-list-link.has-children');
+    parentLinks.forEach(link => {
+      // Store the original href
+      const originalHref = link.getAttribute('href');
+      
+      // Remove click functionality
+      link.addEventListener('click', function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        return false;
+      }, true);
+      
+      // Remove href
+      link.removeAttribute('href');
+      
+      // Make sure cursor stays default
+      link.style.cursor = 'default';
+      link.style.pointerEvents = 'none';
+    });
   }
   
-  a:hover {
-    color: #89c9e3;
-  }
+  // Run immediately
+  disableParentLinks();
   
-  /* Navigation links */
-  .site-nav .nav-list-link {
-    color: #67B7D1;
-  }
+  // Run again after a short delay (in case Just the Docs modifies things)
+  setTimeout(disableParentLinks, 100);
+  setTimeout(disableParentLinks, 500);
   
-  /* Aux nav links (Collection Page, Discord) */
-  .site-header .aux-nav a {
-    color: #67B7D1;
-  }
+  // Watch for any navigation changes
+  const observer = new MutationObserver(function(mutations) {
+    disableParentLinks();
+  });
   
-  /* Active navigation item */
-  .nav-list-item .nav-list-link.active {
-    color: #67B7D1;
+  // Observe the navigation area
+  const navElement = document.querySelector('.site-nav');
+  if (navElement) {
+    observer.observe(navElement, {
+      childList: true,
+      subtree: true,
+      attributes: true,
+      attributeFilter: ['href', 'class']
+    });
   }
-  
-  /* Force ALL sections to be permanently expanded */
-  .nav-list-item > ul.nav-list {
-    display: block !important;
-  }
-  
-  /* Hide ALL expander arrows */
-  .nav-list-expander {
-    display: none !important;
-  }
-  
-  /* Style parent navigation items as non-clickable headers */
-  .nav-list-item > .nav-list-link.has-children {
-    background-color: #f5f6fa !important;
-    color: #5c5962 !important;
-    font-weight: 600 !important;
-    text-transform: uppercase !important;
-    font-size: 0.75rem !important;
-    letter-spacing: 0.05em !important;
-    padding: 0.5rem 1rem !important;
-    margin-bottom: 0.5rem !important;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.1) !important;
-    cursor: default !important;
-    pointer-events: none !important;
-    user-select: none !important;
-  }
-  
-  /* Remove hover effects on parent items */
-  .nav-list-item > .nav-list-link.has-children:hover {
-    color: #5c5962 !important;
-    text-decoration: none !important;
-  }
-</style>
+});
+</script>
