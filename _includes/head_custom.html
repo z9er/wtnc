@@ -36,21 +36,24 @@
 
 <script>
   // Auto-expand sections on page load
-  window.addEventListener('DOMContentLoaded', function() {
-    // Find nav items for NMA, Wabbajack, and Vortex
-    const sectionsToExpand = ['/nma/', '/wabbajack/', '/vortex/'];
-    
-    sectionsToExpand.forEach(function(section) {
-      const navItem = document.querySelector('.nav-list-item:has(a[href*="' + section + '"])');
-      if (navItem) {
-        const expander = navItem.querySelector('.nav-list-expander');
-        const navList = navItem.querySelector('ul.nav-list');
-        
-        // Only expand if currently collapsed
-        if (expander && navList && navList.style.display !== 'block') {
-          expander.click();
+  document.addEventListener('DOMContentLoaded', function() {
+    setTimeout(function() {
+      // Find all nav items with children
+      const navItems = document.querySelectorAll('.nav-list-item');
+      
+      navItems.forEach(function(item) {
+        const link = item.querySelector('a.nav-list-link');
+        if (link && (link.href.includes('/nma/') || link.href.includes('/wabbajack/') || link.href.includes('/vortex/'))) {
+          const expander = item.querySelector('.nav-list-expander');
+          if (expander) {
+            // Check if it's currently collapsed (aria-expanded is false or doesn't exist)
+            const isCollapsed = expander.getAttribute('aria-expanded') !== 'true';
+            if (isCollapsed) {
+              expander.click();
+            }
+          }
         }
-      }
-    });
+      });
+    }, 100); // Small delay to ensure DOM is fully ready
   });
 </script>
