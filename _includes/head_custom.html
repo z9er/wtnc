@@ -33,15 +33,11 @@
     display: none !important;
   }
   
-  /* Add subtle underline to parent navigation items */
-  .nav-list-item > .nav-list-link {
+  /* Add subtle underline only to main section headers (items with children) */
+  .nav-list-item:has(> ul.nav-list) > .nav-list-link {
     border-bottom: 1px solid rgba(255, 255, 255, 0.15);
     padding-bottom: 0.5rem;
     margin-bottom: 0.5rem;
-  }
-  
-  /* Optional: Make parent items stand out more */
-  .nav-list-item > .nav-list-link {
     font-weight: 600;
   }
 </style>
