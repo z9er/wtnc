@@ -4,7 +4,6 @@ title: Changelog
 nav_order: 5
 ---
 
-### Changelog
 <div style="margin-bottom: 1rem;"></div>
 <details markdown="1">
 <summary>Revision 478 - May 28, 2025</summary>
