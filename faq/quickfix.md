@@ -29,3 +29,7 @@ test
 
 </details>
 
+<script>
+document.querySelector('details').open = true;
+</script>
+
