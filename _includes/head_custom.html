@@ -32,4 +32,18 @@
   .nav-list-item:has(a[href*="/faq/"]) > .nav-list-expander {
     display: none !important;
   }
+  
+  /* Auto-expand Nexus Mods App, Wabbajack, and Vortex sections by default */
+  .nav-list-item:has(a[href*="/nma/"]) > ul.nav-list,
+  .nav-list-item:has(a[href*="/wabbajack/"]) > ul.nav-list,
+  .nav-list-item:has(a[href*="/vortex/"]) > ul.nav-list {
+    display: block;
+  }
+  
+  /* Rotate the arrows to show expanded state */
+  .nav-list-item:has(a[href*="/nma/"]) > .nav-list-expander svg,
+  .nav-list-item:has(a[href*="/wabbajack/"]) > .nav-list-expander svg,
+  .nav-list-item:has(a[href*="/vortex/"]) > .nav-list-expander svg {
+    transform: rotate(-90deg);
+  }
 </style>
