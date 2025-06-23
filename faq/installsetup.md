@@ -5,65 +5,112 @@ parent: FAQ
 nav_order: 3
 ---
 
-# Troubleshooting
+### General
 
-<details>
-<summary>My game is loading very slowly</summary>
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>Do I need to have the Phantom Liberty expansion for this list?</summary>
 
-Ensure the game is installed on an SSD, not an HDD. Cyberpunk 2077 with mods requires fast storage for acceptable load times.
-
-</details>
-
-<details>
-<summary>I don't see the minimap</summary>
-
-If you're using Cyberpunk THING, the minimap is hidden by default. Press F6 to toggle it.
+this is a test answer
 
 </details>
 
-<details>
-<summary>There's a stutter every 5 seconds</summary>
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>Can I add this list to my existing save?</summary>
 
-This can be caused by third-party overlays or the Stock Market mod. Try disabling overlays first.
-
-</details>
-
-<details>
-<summary>I'm getting a missing TweakDB error</summary>
-
-1. Navigate to your game folder
-2. Delete these folders: "r6", "red4ext", "bin", "engine"
-3. Verify game files
-4. Reinstall the collection
+this is a test answer
 
 </details>
 
-<details>
-<summary>Red4ext is giving me an error</summary>
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>I cannot see the mods/mod settings menu ingame, why?</summary>
 
-Install Visual C++ Redistributables from Microsoft. Both x64 and x86 versions.
-
-</details>
-
-<details>
-<summary>When I crouch, time skip appears</summary>
-
-This is Immersive Timeskip. You can change the keybind in:
-- Vortex: `Cyberpunk 2077/r6/input/ImmersiveTimeskip.xml`
-- Wabbajack: In MO2, find Immersive Timeskip and edit the XML
+this is a test answer
 
 </details>
 
-<details>
-<summary>Invalid input appears next to my quickhacks</summary>
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>How do I know if the modlist is actually working?</summary>
 
-You need to bind quickhack hotkeys. Open CET console and go to Quickhack Hotkeys settings.
+this is a test answer
+
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>Should I have the "enable mods" option in the Cyberpunk launcher that pops up enabled?</summary>
+
+this is a test answer
 
 </details>
 
-<details>
-<summary>The radio keeps playing after I leave the car</summary>
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>Can I switch between WTNC and THING, how do I do so?</summary>
 
-This is the RadioPort feature added in 2.0. Hold the radio button to turn it off.
+this is a test answer
 
 </details>
+
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>Is Redmod needed for this modlist?</summary>
+
+this is a test answer
+
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>I get a warning that the exe for Cyberpunk 2077 doesn't exist, what do I do?</summary>
+
+this is a test answer
+
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>Red4EXT is giving me an error, how do I fix it?</summary>
+
+this is a test answer
+
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>I'm getting a missing tweakDB error, how can I fix this?</summary>
+
+this is a test answer
+
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>I enabled some of the experimental settings in Cyber Engine Tweaks and my game is having issues, is there a fix?</summary>
+
+this is a test answer
+
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>I'm using AMD and have a crash when changing a graphics option preset, why did that happen?</summary>
+
+this is a test answer
+
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>I'm on Linux, what is CET error 126?</summary>
+
+this is a test answer
+
+</details>
+
+<script>
+document.querySelector('details').open = true;
+</script>
