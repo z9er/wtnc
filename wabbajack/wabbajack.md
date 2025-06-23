@@ -4,5 +4,6 @@ title: Wabbajack
 nav_order: 3
 has_children: true
 has_toc: false
-permalink: false
+nav_exclude: false
+permalink: ""
 ---
