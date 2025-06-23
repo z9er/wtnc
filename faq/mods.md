@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mod Features
+title: Gameplay Questions 
 parent: FAQ
 nav_order: 4
 ---
