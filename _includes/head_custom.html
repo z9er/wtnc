@@ -56,7 +56,7 @@
 </style>
 
 <script>
-  // Make parent nav items clickable to toggle expansion
+  // Handle parent nav items - toggle if open, navigate if closed
   document.addEventListener('DOMContentLoaded', function() {
     // Wait a bit for Just the Docs to initialize
     setTimeout(function() {
@@ -65,14 +65,23 @@
       
       parentLinks.forEach(function(link) {
         link.addEventListener('click', function(e) {
-          e.preventDefault(); // Prevent navigation
-          
-          // Find the expander button in the same nav item
+          // Find the nav item and check if it has children
           const navItem = link.closest('.nav-list-item');
           const expander = navItem.querySelector('.nav-list-expander');
+          const childList = navItem.querySelector('ul.nav-list');
           
-          if (expander) {
-            expander.click(); // Trigger the expander
+          if (expander && childList) {
+            // Check if currently expanded
+            const isExpanded = expander.getAttribute('aria-expanded') === 'true' || 
+                             childList.style.display === 'block' ||
+                             !childList.classList.contains('hidden');
+            
+            if (isExpanded) {
+              // If expanded, prevent navigation and collapse
+              e.preventDefault();
+              expander.click();
+            }
+            // If collapsed, allow normal navigation (which will redirect to install page)
           }
         });
       });
