@@ -23,15 +23,3 @@
     color: #67B7D1;
   }
 </style>
-
-<script>
-window.addEventListener('load', function() {
-  setTimeout(function() {
-    // Click the FAQ expander to open it
-    const faqExpander = document.querySelector('.nav-list-expander[href$="/faq/"]');
-    if (faqExpander && !faqExpander.classList.contains('active')) {
-      faqExpander.click();
-    }
-  }, 100);
-});
-</script>
