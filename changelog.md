@@ -2786,3 +2786,7 @@ nav_order: 5
 - [Combat Crafting 1.0](https://www.nexusmods.com/cyberpunk2077/mods/4928)
 
 </details>
+
+<script>
+document.querySelector('details').open = true;
+</script>
