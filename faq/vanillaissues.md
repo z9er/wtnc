@@ -2,7 +2,7 @@
 layout: default
 title: Vanilla Issues
 parent: FAQ
-nav_order: 5
+nav_order: 7
 ---
 
 # Known Vanilla Bugs
