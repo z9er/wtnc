@@ -4,6 +4,7 @@ title: Nexus Mods App
 nav_order: 2
 has_children: true
 has_toc: false
-permalink: false
+nav_exclude: false
+permalink: ""
 ---
 
