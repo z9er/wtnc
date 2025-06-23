@@ -41,19 +41,3 @@
     font-weight: 600;
   }
 </style>
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  // Prevent clicking on parent navigation items
-  const parentLinks = document.querySelectorAll('.nav-list-link.has-children');
-  parentLinks.forEach(link => {
-    link.addEventListener('click', function(e) {
-      e.preventDefault();
-      return false;
-    });
-    // Remove href to prevent middle-click opening
-    link.removeAttribute('href');
-    link.style.cursor = 'default';
-  });
-});
-</script>
