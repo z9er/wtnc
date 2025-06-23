@@ -33,9 +33,8 @@
     display: none !important;
   }
   
-  /* Style parent navigation items as non-clickable headers - MORE AGGRESSIVE */
-  .nav-list-item > .nav-list-link.has-children,
-  .nav-list-item > .nav-list-link.has-children.active {
+  /* Style parent navigation items as non-clickable headers */
+  .nav-list-item > .nav-list-link.has-children {
     background-color: #f5f6fa !important;
     color: #5c5962 !important;
     font-weight: 600 !important;
@@ -48,26 +47,11 @@
     cursor: default !important;
     pointer-events: none !important;
     user-select: none !important;
-    text-decoration: none !important;
   }
   
-  /* Remove hover effects on parent items - even when active */
-  .nav-list-item > .nav-list-link.has-children:hover,
-  .nav-list-item > .nav-list-link.has-children.active:hover {
+  /* Remove hover effects on parent items */
+  .nav-list-item > .nav-list-link.has-children:hover {
     color: #5c5962 !important;
     text-decoration: none !important;
-    background-color: #f5f6fa !important;
   }
 </style>
-
-<!-- JavaScript to ensure parent links stay non-clickable -->
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  // Remove href from parent links to prevent any navigation
-  const parentLinks = document.querySelectorAll('.nav-list-link.has-children');
-  parentLinks.forEach(link => {
-    link.removeAttribute('href');
-    link.style.cursor = 'default';
-  });
-});
-</script>
