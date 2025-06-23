@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Installation Issues
+title: Mod Functionality
 parent: FAQ
 nav_order: 2
 ---
