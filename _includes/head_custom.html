@@ -46,12 +46,12 @@
   a[href$="/nma/"],
   a[href$="/wabbajack/"],
   a[href$="/vortex/"] {
-    pointer-events: none;
-    cursor: default;
-    user-select: none;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
+    pointer-events: none !important;
+    cursor: default !important;
+    user-select: none !important;
+    -webkit-user-select: none !important;
+    -moz-user-select: none !important;
+    -ms-user-select: none !important;
   }
   
   /* Prevent hover effects on these items */
@@ -61,6 +61,51 @@
   a[href$="/vortex/"]:hover {
     color: #67B7D1 !important;
     background: none !important;
+    background-color: transparent !important;
     text-decoration: none !important;
   }
+  
+  /* Override active/focus states too */
+  a[href$="/faq/"]:active,
+  a[href$="/nma/"]:active,
+  a[href$="/wabbajack/"]:active,
+  a[href$="/vortex/"]:active,
+  a[href$="/faq/"]:focus,
+  a[href$="/nma/"]:focus,
+  a[href$="/wabbajack/"]:focus,
+  a[href$="/vortex/"]:focus {
+    color: #67B7D1 !important;
+    background: none !important;
+    background-color: transparent !important;
+    text-decoration: none !important;
+    outline: none !important;
+  }
 </style>
+
+<script>
+  // Completely disable clicks on these navigation items
+  document.addEventListener('DOMContentLoaded', function() {
+    setTimeout(function() {
+      const disabledLinks = document.querySelectorAll('a[href$="/faq/"], a[href$="/nma/"], a[href$="/wabbajack/"], a[href$="/vortex/"]');
+      
+      disabledLinks.forEach(function(link) {
+        // Remove href to prevent navigation
+        link.removeAttribute('href');
+        
+        // Prevent all click events
+        link.addEventListener('click', function(e) {
+          e.preventDefault();
+          e.stopPropagation();
+          e.stopImmediatePropagation();
+          return false;
+        }, true);
+        
+        // Override any existing click handlers
+        link.onclick = function() { return false; };
+        
+        // Remove from tab order
+        link.tabIndex = -1;
+      });
+    }, 300);
+  });
+</script>
