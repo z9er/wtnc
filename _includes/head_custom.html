@@ -22,14 +22,14 @@
   .nav-list-item .nav-list-link.active {
     color: #67B7D1;
   }
-
-/* Force FAQ to be expanded */
+  
+  /* Force FAQ to be expanded */
   .nav-list-item:has(a[href*="/faq/"]) > ul.nav-list {
     display: block !important;
   }
   
-  .nav-list-item:has(a[href*="/faq/"]) > .nav-list-expander svg {
-    transform: rotate(-90deg);
+  /* Hide the FAQ expander arrow */
+  .nav-list-item:has(a[href*="/faq/"]) > .nav-list-expander {
+    display: none !important;
   }
 </style>
-
