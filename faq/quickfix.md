@@ -7,7 +7,7 @@ nav_order: 1
 
 <div style="margin-bottom: 1rem;"></div>
 <details markdown="1">
-<summary>Nexus Mods App</summary>
+<summary>For NMA</summary>
 
 test
 
@@ -15,7 +15,7 @@ test
 
 <div style="margin-bottom: 1rem;"></div>
 <details markdown="1">
-<summary>Wabbajack</summary>
+<summary>For Wabbajack</summary>
 
 test
 
@@ -23,7 +23,7 @@ test
 
 <div style="margin-bottom: 1rem;"></div>
 <details markdown="1">
-<summary>Vortex</summary>
+<summary>For Vortex</summary>
 
 test
 
