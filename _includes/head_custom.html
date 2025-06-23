@@ -23,3 +23,20 @@
     color: #67B7D1;
   }
 </style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Expand all navigation items
+  const navLists = document.querySelectorAll('.nav-list-item > .nav-list');
+  navLists.forEach(function(list) {
+    list.style.display = 'block';
+    list.classList.add('active');
+  });
+  
+  // Make sure all expander arrows point down
+  const expanders = document.querySelectorAll('.nav-list-expander');
+  expanders.forEach(function(expander) {
+    expander.classList.add('active');
+  });
+});
+</script>
