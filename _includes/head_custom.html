@@ -33,25 +33,11 @@
     display: none !important;
   }
   
-  /* Style parent navigation items as non-clickable headers */
-  .nav-list-item > .nav-list-link.has-children {
-    background-color: #f5f6fa !important;
-    color: #5c5962 !important;
-    font-weight: 600 !important;
-    text-transform: uppercase !important;
-    font-size: 0.75rem !important;
-    letter-spacing: 0.05em !important;
-    padding: 0.5rem 1rem !important;
-    margin-bottom: 0.5rem !important;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.1) !important;
-    cursor: default !important;
-    pointer-events: none !important;
-    user-select: none !important;
-  }
-  
-  /* Remove hover effects on parent items */
-  .nav-list-item > .nav-list-link.has-children:hover {
-    color: #5c5962 !important;
-    text-decoration: none !important;
+  /* Add subtle underline only to main section headers (items with children) */
+  .nav-list-item:has(> ul.nav-list) > .nav-list-link {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+    padding-bottom: 0.5rem;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
   }
 </style>
