@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Troubleshooting
+title: Installation and Setup
 parent: FAQ
 nav_order: 3
 ---
