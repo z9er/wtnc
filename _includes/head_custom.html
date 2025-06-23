@@ -23,20 +23,26 @@
     color: #67B7D1;
   }
 </style>
-
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  // Expand all navigation items
-  const navLists = document.querySelectorAll('.nav-list-item > .nav-list');
-  navLists.forEach(function(list) {
-    list.style.display = 'block';
-    list.classList.add('active');
-  });
-  
-  // Make sure all expander arrows point down
-  const expanders = document.querySelectorAll('.nav-list-expander');
-  expanders.forEach(function(expander) {
-    expander.classList.add('active');
-  });
+  // Find the FAQ navigation item
+  const faqLink = document.querySelector('a.nav-list-link[href$="/faq/"]');
+  if (faqLink) {
+    const faqItem = faqLink.closest('.nav-list-item');
+    if (faqItem) {
+      // Find the child list
+      const childList = faqItem.querySelector(':scope > .nav-list');
+      if (childList) {
+        childList.style.display = 'block';
+        childList.classList.add('active');
+      }
+      
+      // Find the expander arrow
+      const expander = faqItem.querySelector(':scope > .nav-list-expander');
+      if (expander) {
+        expander.classList.add('active');
+      }
+    }
+  }
 });
 </script>
