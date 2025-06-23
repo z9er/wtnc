@@ -5,55 +5,102 @@ parent: FAQ
 nav_order: 4
 ---
 
-# Mod Features
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>What are some recommended CET keybinds?</summary>
 
-<details>
-<summary>How do I find the Car Modification Shop?</summary>
-
-On your map, ensure "Drop Points" filter is enabled. The shop appears as a wrench icon in Northeast Watson.
-
-</details>
-
-<details>
-<summary>How does Equipment-EX work?</summary>
-
-- Access through "Wardrobe" button in Inventory or V's apartment
-- 50+ visual clothing slots separate from stats
-- Save unlimited outfits
-- Change outfits in photo mode
+this is a test answer
 
 </details>
 
-<details>
-<summary>How do I use Limited HUD toggles?</summary>
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>Can I use a controller with this modlist?</summary>
 
-- **F8**: Global toggle (minimap, quest tracker, markers)
-- **F6**: Minimap only
-- Configure in Mod Settings menu
-
-</details>
-
-<details>
-<summary>What is Mark to Sell?</summary>
-
-Adds "Junk+" and "Junk+++" categories for marking items to sell. Use in inventory to mark items for bulk selling at vendors.
+this is a test answer
 
 </details>
 
-<details>
-<summary>How do I use Quickhack Loadouts?</summary>
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>Is there a recommended difficulty?</summary>
 
-In your cyberdeck menu:
-1. Set up your quickhacks
-2. Click "Save" on a loadout slot
-3. Name it
-4. Switch between saved loadouts instantly
+this is a test answer
 
 </details>
 
-<details>
-<summary>Why is my crosshair missing in THING?</summary>
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>How do I use the CET console?</summary>
 
-Fading Crosshairs is configured to hide crosshairs by default in THING. Check Mod Settings to adjust.
+this is a test answer
 
 </details>
+
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>I level too quickly/slowly, how can I fix this?</summary>
+
+this is a test answer
+
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>I take/do too much/little damage, can I change this?</summary>
+
+this is a test answer
+
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>I don't see the minimap, where did it go?</summary>
+
+this is a test answer
+
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>I don't see any enemies on the minimap, why can't I?</summary>
+
+this is a test answer
+
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>I can't sprint or double jump, what's happening?</summary>
+
+this is a test answer
+
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>When I crouch an option to skip time comes up, what is that?</summary>
+
+this is a test answer
+
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>I want to change the key for Immersive Timeskip's hotkey from o, how do I do it?</summary>
+
+this is a test answer
+
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+<details markdown="1">
+<summary>Why can't I stealth kill an enemy with my Gwynbleidd?</summary>
+
+this is a test answer
+
+</details>
+
+<script>
+document.querySelector('details').open = true;
+</script>
