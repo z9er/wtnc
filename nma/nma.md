@@ -6,4 +6,3 @@ has_children: true
 has_toc: false
 ---
 
-<script> window.location.href = "/wtnc/nma/install"; </script>
