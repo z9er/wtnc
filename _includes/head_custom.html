@@ -40,4 +40,13 @@
     margin-bottom: 0.5rem;
     font-weight: 600;
   }
+  
+  /* Make FAQ, Nexus Mods App, Wabbajack, and Vortex unclickable */
+  a[href$="/faq/"],
+  a[href$="/nma/"],
+  a[href$="/wabbajack/"],
+  a[href$="/vortex/"] {
+    pointer-events: none;
+    cursor: default;
+  }
 </style>
