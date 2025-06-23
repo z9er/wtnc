@@ -7,5 +7,5 @@ has_toc: false
 ---
 
 <script>
-  window.location.href = "/wtnc/faq/general";
+  window.location.href = "/wtnc/faq/quickfix";
 </script>
