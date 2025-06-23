@@ -33,17 +33,3 @@
   }
 </style>
 
-<script>
-window.addEventListener('load', function() {
-  setTimeout(function() {
-    // If we're on the changelog page, open the first revision
-    if (window.location.pathname.includes('/changelog')) {
-      const firstRevision = document.querySelector('details');
-      if (firstRevision) {
-        firstRevision.open = true;
-      }
-    }
-  }, 100);
-});
-</script>
-
