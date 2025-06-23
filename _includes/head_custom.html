@@ -48,5 +48,19 @@
   a[href$="/vortex/"] {
     pointer-events: none;
     cursor: default;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+  }
+  
+  /* Prevent hover effects on these items */
+  a[href$="/faq/"]:hover,
+  a[href$="/nma/"]:hover,
+  a[href$="/wabbajack/"]:hover,
+  a[href$="/vortex/"]:hover {
+    color: #67B7D1 !important;
+    background: none !important;
+    text-decoration: none !important;
   }
 </style>
