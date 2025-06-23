@@ -1,6 +1,6 @@
 ---
 layout: default
-title: General FAQ
+title: The Quick Fix
 parent: FAQ
 nav_order: 1
 ---
