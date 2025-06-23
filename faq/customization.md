@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Customization
+title: Modlist Customization
 parent: FAQ
 nav_order: 6
 ---
