@@ -6,6 +6,140 @@ nav_order: 5
 
 <div style="margin-bottom: 1rem;"></div>
 <details markdown="1">
+<summary>Revision 479 - July 20, 2025</summary>
+
+### Added Mods
+
+**Gameplay Mechanics**
+
+- [Bounties Restored 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/21820)
+
+**Enemies and Difficulty**
+
+- [Intelligence based scanner time dilation 1.0](https://www.nexusmods.com/cyberpunk2077/mods/16270)
+
+**Weapons**
+
+- [NCPD Cache 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/22094)
+
+**Quality of Life**
+
+- [Non-Canon Romances Enhanced 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/20466)
+
+**Bug Fixes**
+
+- [H10 Interactive Stash Door Restored 1.1](https://www.nexusmods.com/cyberpunk2077/mods/18482)
+- [Quest Trigger Fixes Compatibility 1.1](https://www.nexusmods.com/cyberpunk2077/mods/17980)
+- [RAM bar fix 1.1](https://www.nexusmods.com/cyberpunk2077/mods/22503)
+- [Smart Gun Lock Speed Fixes 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/21798)
+- [Vehicle Exit Fix for 2.3 1.0](https://www.nexusmods.com/cyberpunk2077/mods/22786)
+
+### Updated Mods
+
+**Gameplay Mechanics**
+
+- [Movement And Camera Tweaks 1.41](https://www.nexusmods.com/cyberpunk2077/mods/4039)
+- [Neuralware - Chipware Expansion 1.2](https://www.nexusmods.com/cyberpunk2077/mods/19798)
+
+**Enemies and Difficulty**
+
+- [No shooting delay 1.2-fix](https://www.nexusmods.com/cyberpunk2077/mods/15559) 
+
+**Quests**
+
+- [Hot Fuzz 2.4.0](https://www.nexusmods.com/cyberpunk2077/mods/7832)
+- [New Quest - Californication 2.4.0](https://www.nexusmods.com/cyberpunk2077/mods/7833)
+- [New Quest - One More Light 2.1.2](https://www.nexusmods.com/cyberpunk2077/mods/7834)
+
+**NPC Interactions**
+
+- [Panam Romanced Enhanced 2.5.0](https://www.nexusmods.com/cyberpunk2077/mods/4626)
+- [Romance Hangouts Enhanced 2.2.0](https://www.nexusmods.com/cyberpunk2077/mods/11590)
+
+**World Interactions**
+
+- [Immersive Bartenders 2.0.3](https://www.nexusmods.com/cyberpunk2077/mods/7203) 
+- [Immersive Food Vendors 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/7322)
+- [Immersive Food Vendors - Dogtown 1.2.1](https://www.nexusmods.com/cyberpunk2077/mods/10393)
+- [Immersive Rippers 2.5.0](https://www.nexusmods.com/cyberpunk2077/mods/7064)
+- [Immersive Rippers - Dogtown 1.3.0](https://www.nexusmods.com/cyberpunk2077/mods/10255)
+- [Night City Interactions - Core 3.6.0h](https://www.nexusmods.com/cyberpunk2077/mods/5519)
+- [Pachinko Button - Gambling System 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/19889)
+- [Playable Blackjack - Gambling System 1.0.8](https://www.nexusmods.com/cyberpunk2077/mods/19575)
+- [Playable Roulette - Gambling System 1.0.15](https://www.nexusmods.com/cyberpunk2077/mods/15450)
+- [Roller Coaster Enhanced 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/14617)
+
+**Vehicles and Driving**
+
+- [The Passenger - Feature Settings 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/18380)
+- [Vehicle Summon Tweaks - Dismiss 2.2.2](https://www.nexusmods.com/cyberpunk2077/mods/4658)
+
+**Weapons**
+
+- [Extra Iconics 2.0.4](https://www.nexusmods.com/cyberpunk2077/mods/15889)
+- [Mox Cache 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/20073)
+- [Trigger Mode Control 2.7.8](https://www.nexusmods.com/cyberpunk2077/mods/13077)
+- [Tyger Cache 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/20827)
+
+**Cyberware**
+
+- [Black Chrome 1.1.10](https://www.nexusmods.com/cyberpunk2077/mods/16031)
+- [Extra Hands 2.2.0](https://www.nexusmods.com/cyberpunk2077/mods/12325)
+
+**Aesthetics**
+
+- [Immersive Timeskip 2.2.0](https://www.nexusmods.com/cyberpunk2077/mods/5115)
+
+**UI**
+
+- [Better Quality Sort 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/20267)
+- [Cleaner Main Menu and Pause Menu 2.3](https://www.nexusmods.com/cyberpunk2077/mods/10285)
+- [Inventory Adjustments Hub 1.2](https://www.nexusmods.com/cyberpunk2077/mods/19632)
+- [Limited HUD 2.20.3](https://www.nexusmods.com/cyberpunk2077/mods/2592)
+- [Muted Markers 2.3.3](https://www.nexusmods.com/cyberpunk2077/mods/1727)
+- [Stash and Backpack Search - Backpack Search 1.2.1](https://www.nexusmods.com/cyberpunk2077/mods/14264)
+- [Untrack Quest Ultimate 3.1.1](https://www.nexusmods.com/cyberpunk2077/mods/6328)
+
+**Quality of Life**
+
+- [Flashback Fixer 1.3-fix](https://www.nexusmods.com/cyberpunk2077/mods/16236) 
+- [Quickhack Hotkeys 2.3.0](https://www.nexusmods.com/cyberpunk2077/mods/7238)
+- [Quickhack Loadouts 1.4.1](https://www.nexusmods.com/cyberpunk2077/mods/11682)
+
+**Bug Fixes**
+
+- [Cop Killer NCPD Fixes ncpdf-1.4](https://www.nexusmods.com/cyberpunk2077/mods/14652)
+- [Deceptious Bug Fixes 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/18318)
+- [Quickhack Fixes 1.2.18](https://www.nexusmods.com/cyberpunk2077/mods/18290)
+
+**Utility**
+
+- [ArchiveXL 1.24.0](https://www.nexusmods.com/cyberpunk2077/mods/4198)
+- [Codeware 1.17.0](https://www.nexusmods.com/cyberpunk2077/mods/7780)
+- [Cyber Engine Tweaks 1.36.0](https://www.nexusmods.com/cyberpunk2077/mods/107)
+- [Deceptious Quest Core 3.1.1](https://www.nexusmods.com/cyberpunk2077/mods/7831)
+- [Input Loader 0.2.3](https://www.nexusmods.com/cyberpunk2077/mods/4575)
+- [Mod Settings 0.2.21](https://www.nexusmods.com/cyberpunk2077/mods/4885)
+- [RED4ext 1.28.0](https://www.nexusmods.com/cyberpunk2077/mods/2380)
+- [TweakXL 1.11.0](https://www.nexusmods.com/cyberpunk2077/mods/4197)
+
+### Removed Mods
+
+- [Enable Finisher Ragdolls 0.1](https://www.nexusmods.com/cyberpunk2077/mods/9496)
+- [Maelstrom Crystal Coat 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/21351)
+- [Matrix Crystal Coat 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/21319)
+- [Mod Settings - Gallery Patch](https://www.nexusmods.com/cyberpunk2077/mods/21169)
+- [Plan C 1.4](https://www.nexusmods.com/cyberpunk2077/mods/13461)
+- [Plan C - Japantown Stash Wall Fix](https://www.nexusmods.com/cyberpunk2077/mods/13461)
+- [Slaught-O-Matic Platinum 1.5](https://www.nexusmods.com/cyberpunk2077/mods/14004)
+- [Slaught-O-Matic QoL 1.1](https://www.nexusmods.com/cyberpunk2077/mods/14125)
+- [Slow Firing Rate on Longer Saves Bug Fix 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/18768)
+- [TwinTone Stores 1.0.4](https://www.nexusmods.com/cyberpunk2077/mods/19992)
+
+
+</details>
+
+<details markdown="1">
 <summary>Revision 478 - May 28, 2025</summary>
 
 ### Added
