@@ -136,7 +136,6 @@ nav_order: 5
 - [Slow Firing Rate on Longer Saves Bug Fix 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/18768)
 - [TwinTone Stores 1.0.4](https://www.nexusmods.com/cyberpunk2077/mods/19992)
 
-
 </details>
 
 <details markdown="1">
