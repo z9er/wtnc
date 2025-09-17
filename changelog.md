@@ -10,6 +10,189 @@ nav_order: 5
 
 ### Added Mods
 
+**Quests**
+
+- [Adam Finlay Hidden Gem Quest Recovery 1.2.1](https://www.nexusmods.com/cyberpunk2077/mods/22103)
+
+**World Interactions**
+
+- [Say Something Damn It 1.10.1](https://www.nexusmods.com/cyberpunk2077/mods/22228)
+
+**Vehicles and Driving**
+
+- [Auto Drive Enhanced 0.0.0.14](https://www.nexusmods.com/cyberpunk2077/mods/23157)
+- [Recoil for Driver Combat mode 2.3](https://www.nexusmods.com/cyberpunk2077/mods/23278)
+
+**Weapons**
+
+- [Animals Cache 1.0.3](https://www.nexusmods.com/cyberpunk2077/mods/23129)
+- [Automatic Tech Weapon Handling (Like the Raiju) 1.0](https://www.nexusmods.com/cyberpunk2077/mods/23119)
+- [Biotechnica Cache 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/23674)
+- [Exagryph Iconic Smart LMG 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/24124)
+- [Plan C 1.4](https://www.nexusmods.com/cyberpunk2077/mods/13461)
+- [Plan C - Japantown Stash Wall Fix swf-1.0](https://www.nexusmods.com/cyberpunk2077/mods/13461)
+- [Slaught-O-Matic Platinum - Semi Auto 1.5](https://www.nexusmods.com/cyberpunk2077/mods/14004)
+- [Slaught-O-Matic QoL 1.1](https://www.nexusmods.com/cyberpunk2077/mods/14125)
+
+**UI**
+
+- [Inventory Sorting Improved 1.0](https://www.nexusmods.com/cyberpunk2077/mods/23628)
+
+**Quality of Life**
+
+- [Input QoL 1.0](https://www.nexusmods.com/cyberpunk2077/mods/23739)
+- [Reset Attributes always available - Redscript 1.0.0.4](https://www.nexusmods.com/cyberpunk2077/mods/9240)
+
+**Bug Fixes**
+
+- [Bolt Shots Penetrate Cover 1.0.3](https://www.nexusmods.com/cyberpunk2077/mods/20373)
+- [Bounty class stars fix 1.0.0.2](https://www.nexusmods.com/cyberpunk2077/mods/23211)
+- [Buzzsaw VFX Fix 1](https://www.nexusmods.com/cyberpunk2077/mods/23060)
+- [Cyberware Screen Tooltip Fix 1.0](https://www.nexusmods.com/cyberpunk2077/mods/23615)
+- [Immersion Patch - Path Of Glory - Afterlife scene bug fixes 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/23875)
+- [Immersion Patch - Path of Glory - Restore Gun Equip in Shuttle Scene 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/23897)
+- [Map Exit Nuclear Explosion Fix 0.1](https://www.nexusmods.com/cyberpunk2077/mods/23420)
+- [NCPD Fixes ncpdf-1.5](https://www.nexusmods.com/cyberpunk2077/mods/22838)
+- [Ragdoll Execution Fix 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/23206)
+- [Semimaru Quest Restart Bug Fix 1.1](https://www.nexusmods.com/cyberpunk2077/mods/23031)
+- [Silver Pixel Cloud Drive-in Gates Game Bug Patch 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/23573)
+- [Stamina Consumption Fix 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/23230)
+- [Streaming Bug Workaround 0.25](https://www.nexusmods.com/cyberpunk2077/mods/22857)
+- [Overclock Health-RAM Drain Bug Fix 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/17414)
+
+### Updated Mods
+
+**Gameplay Mechanics**
+
+- [Gorilla Grapple 1.3](https://www.nexusmods.com/cyberpunk2077/mods/14183)
+- [Melee Attacks Fixes And Enhancements 0.39](https://www.nexusmods.com/cyberpunk2077/mods/16921)
+- [Neuralware - Chipware Expansion 1.2.1](https://www.nexusmods.com/cyberpunk2077/mods/19798)
+- [Radial Breach 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/21077)
+- [Ricochet Redux 4.1.2](https://www.nexusmods.com/cyberpunk2077/mods/7197)
+- [Stealthrunner 1.8.3](https://www.nexusmods.com/cyberpunk2077/mods/7616)
+
+**Enemies and Difficulty**
+
+- [Damage Scaling and Balance 4.2.1](https://www.nexusmods.com/cyberpunk2077/mods/1712)
+
+**Quests**
+
+- [New Quest - Californication 3.0.1](https://www.nexusmods.com/cyberpunk2077/mods/7833)
+- [One More Light 2.1.3](https://www.nexusmods.com/cyberpunk2077/mods/7834)
+
+**NPC Interactions**
+
+- [Apartment Cats - The Glen 2.2.0](https://www.nexusmods.com/cyberpunk2077/mods/6276)
+- [Gone Away - Better Partner Suspended Behaviour 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/19412)
+- [Here's Johnny 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/13779)
+- [Judy Romanced Enhanced 2.4.0](https://www.nexusmods.com/cyberpunk2077/mods/4508)
+- [Kerry Romanced Enhanced 2.1.0](https://www.nexusmods.com/cyberpunk2077/mods/4990)
+- [NCI Addon - Badlands and Pacifica 2.0.1](https://www.nexusmods.com/cyberpunk2077/mods/15138)
+- [NCI Addon - City Center 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/21018)
+- [NCI Addon - Heywood 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/14806)
+- [NCI Addon - Santo Domingo 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/19005)
+- [NCI Addon - Watson 2.0.1](https://www.nexusmods.com/cyberpunk2077/mods/14804)
+- [NCI Addon - Westbrook 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/14805)
+- [Night City Interactions - Core 4.0.1](https://www.nexusmods.com/cyberpunk2077/mods/5519)
+- [Panam Romanced Enhanced 2.6.0](https://www.nexusmods.com/cyberpunk2077/mods/4626)
+- [Pet Your Cat 2.4.0](https://www.nexusmods.com/cyberpunk2077/mods/6198)
+- [River Romanced Enhanced 2.4.0](https://www.nexusmods.com/cyberpunk2077/mods/4870)
+
+**World Interactions**
+
+- [Kabuki Gun Range Enhanced 1.2.1](https://www.nexusmods.com/cyberpunk2077/mods/13466)
+- [Parking Spots Enhanced 1.2.3](https://www.nexusmods.com/cyberpunk2077/mods/15708)
+- [Roller Coaster Enhanced 1.1.2](https://www.nexusmods.com/cyberpunk2077/mods/14617)
+
+**Vehicles and Driving**
+
+- [Vehicle Summon Tweaks - Dismiss 2.3.2](https://www.nexusmods.com/cyberpunk2077/mods/4658)
+
+**Weapons**
+
+- [Cronos 1.1](https://www.nexusmods.com/cyberpunk2077/mods/13462)
+- [Extra Iconics 2.0.5](https://www.nexusmods.com/cyberpunk2077/mods/15889)
+- [MaxTac Silencer 1.1](https://www.nexusmods.com/cyberpunk2077/mods/11979)
+- [Mox Cache 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/20073)
+- [Trigger Mode Control 2.8.1](https://www.nexusmods.com/cyberpunk2077/mods/13077)
+- [Tyger Cache 1.0.3](https://www.nexusmods.com/cyberpunk2077/mods/20827)
+
+**Cyberware**
+
+- [Alternative Berserk 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/20393)
+- [Extra Berserks 1.2.2](https://www.nexusmods.com/cyberpunk2077/mods/14236)
+- [Extra Hands 2.2.1](https://www.nexusmods.com/cyberpunk2077/mods/12325)
+- [Heat Converter 1.2.1](https://www.nexusmods.com/cyberpunk2077/mods/11820)
+- [Jarngreipr 1.3.3](https://www.nexusmods.com/cyberpunk2077/mods/12591)
+- [Megingjord 1.3.3](https://www.nexusmods.com/cyberpunk2077/mods/12664)
+
+**Aesthetics**
+
+- [Enhanced Craft 4.0.6](https://www.nexusmods.com/cyberpunk2077/mods/4378)
+- [Immersive Timeskip 2.2.1](https://www.nexusmods.com/cyberpunk2077/mods/5115)
+
+**UI**
+
+- [Filter Saves by Lifepath and Type 1.5.1](https://www.nexusmods.com/cyberpunk2077/mods/3400)
+- [Improved NCPD Map Filters 2.1.1](https://www.nexusmods.com/cyberpunk2077/mods/17488)
+- [Inventory Adjustments Hub 1.3](https://www.nexusmods.com/cyberpunk2077/mods/19632)
+- [Limited HUD 2.21.4](https://www.nexusmods.com/cyberpunk2077/mods/2592)
+- [Loot Icons Extension Light 1.53](https://www.nexusmods.com/cyberpunk2077/mods/16386)
+- [Muted Markers 2.3.4](https://www.nexusmods.com/cyberpunk2077/mods/1727)
+- [Native Settings UI Side Menu Add-on 1.3.9](https://www.nexusmods.com/cyberpunk2077/mods/16218)
+- [Sort Ripperdoc Inventory 1.1](https://www.nexusmods.com/cyberpunk2077/mods/17630)
+- [Untrack Quest Ultimate 3.3.0](https://www.nexusmods.com/cyberpunk2077/mods/6328)
+
+**Quality of Life**
+
+- [Custom Quickslots 5.1.7](https://www.nexusmods.com/cyberpunk2077/mods/3096)
+- [Looting QoL 1.8](https://www.nexusmods.com/cyberpunk2077/mods/14730)
+- [Metro Pocket Guide 1.2.10](https://www.nexusmods.com/cyberpunk2077/mods/11882)
+- [Replace Weapon Mods 1.3](https://www.nexusmods.com/cyberpunk2077/mods/15409)
+- [Retrothrusters QoL 1.3](https://www.nexusmods.com/cyberpunk2077/mods/14320)
+
+**Bug Fixes**
+
+- [Deceptious Bug Fixes 1.2.4](https://www.nexusmods.com/cyberpunk2077/mods/18318)
+- [Quickhack Fixes 1.2.20](https://www.nexusmods.com/cyberpunk2077/mods/18290)
+
+**Utility**
+
+- [ArchiveXL 1.26.0](https://www.nexusmods.com/cyberpunk2077/mods/4198)
+- [Browser Extension 0.9.6](https://www.nexusmods.com/cyberpunk2077/mods/10038)
+- [Codeware 1.18.0](https://www.nexusmods.com/cyberpunk2077/mods/7780)
+- [Cyber Engine Tweaks 1.37.0](https://www.nexusmods.com/cyberpunk2077/mods/107)
+- [RED4ext 1.29.1](https://www.nexusmods.com/cyberpunk2077/mods/2380)
+- [redscript 0.5.30](https://www.nexusmods.com/cyberpunk2077/mods/1511)
+
+### Removed Mods
+
+- [Aurore Romanced 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/11097)
+- [Better Quality Sort 1.2.1](https://www.nexusmods.com/cyberpunk2077/mods/20267)
+- [Cop Killer - NCPD Fixes](https://www.nexusmods.com/cyberpunk2077/mods/14652)
+- [Crouch vignette effect remover 2.0](https://www.nexusmods.com/cyberpunk2077/mods/535)
+- [Decals Flickering Fix 0.12](https://www.nexusmods.com/cyberpunk2077/mods/16579)
+- [Flaming Crotch Man Romanced 1.3.0](https://www.nexusmods.com/cyberpunk2077/mods/9573)
+- [Focus Vignette Removal 1.0](https://www.nexusmods.com/cyberpunk2077/mods/10712)
+- [New Quest - Encore 2.3.0](https://www.nexusmods.com/cyberpunk2077/mods/8413)
+- [New Quest - Hot Fuzz 2.4.0](https://www.nexusmods.com/cyberpunk2077/mods/7832)
+- [Pachinko Button - Gambling System 1.1.2](https://www.nexusmods.com/cyberpunk2077/mods/19889)
+- [Playable Blackjack - Gambling System 1.0.8](https://www.nexusmods.com/cyberpunk2077/mods/19575)
+- [Playable Roulette - Gambling System 1.0.15](https://www.nexusmods.com/cyberpunk2077/mods/15450)
+- [Poker Chips and Playing Cards 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/15229)
+- [QoL - Stencil Text Enhanced 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/15154)
+- [Revised Backpack 0.9.10](https://www.nexusmods.com/cyberpunk2077/mods/17642)
+- [Rita Wheeler Romanced 2.4.0](https://www.nexusmods.com/cyberpunk2077/mods/9191)
+- [TV Mute Control 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/14149)
+
+
+</details>
+
+<details markdown="1">
+<summary>Revision 479 - July 20, 2025</summary>
+
+### Added Mods
+
 **Gameplay Mechanics**
 
 - [Bounties Restored 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/21820)
