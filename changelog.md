@@ -6,7 +6,7 @@ nav_order: 5
 
 <div style="margin-bottom: 1rem;"></div>
 <details markdown="1">
-<summary>Revision 479 - July 20, 2025</summary>
+<summary>Revision 480 - September 17, 2025</summary>
 
 ### Added Mods
 
