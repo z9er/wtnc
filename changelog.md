@@ -6,6 +6,164 @@ nav_order: 5
 
 <div style="margin-bottom: 1rem;"></div>
 <details markdown="1">
+<summary>Revision 481 - January 3, 2026</summary>
+
+### Added Mods
+
+**Gameplay Mechanics**
+
+- [No Spillover out of combat 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/24359)
+
+**Enemies and Difficulty**
+
+- [Damage Scaling and Balance - Extended 3.2](https://www.nexusmods.com/cyberpunk2077/mods/21865)
+
+**World Interactions**
+
+- [Gambling Props - Poker Chips and Playing Cards 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/15229)
+- [Pachinko Button - Gambling System 1.1.4](https://www.nexusmods.com/cyberpunk2077/mods/19889)
+- [Playable Blackjack - Gambling System 1.1.4](https://www.nexusmods.com/cyberpunk2077/mods/19575)
+- [Playable Roulette - Gambling System 1.1.2](https://www.nexusmods.com/cyberpunk2077/mods/15450)
+
+**Vehicles and Driving**
+
+- [Immersive Delamain 1.1.3](https://www.nexusmods.com/cyberpunk2077/mods/24295)
+
+**Perks**
+
+- [Running Man - New Sprinting Perks 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/26611)
+
+**Weapons**
+
+- [Shuriken Tornado Grenade 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/24484)
+
+**Cyberware**
+
+- [Black Budget Classified Limbs 2.2](https://www.nexusmods.com/cyberpunk2077/mods/24673)
+
+**UI**
+
+- [Better Quality Sort V2 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/20267)
+- [Compact Abilities 1.0](https://www.nexusmods.com/cyberpunk2077/mods/24853)
+- [Flatlined Exit 1.0](https://www.nexusmods.com/cyberpunk2077/mods/24400)
+- [Map Search 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/26222)
+- [Stash and Vendors QoL - move stack - select group - move group 0.9](https://www.nexusmods.com/cyberpunk2077/mods/25315)
+- [Vendor Search 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/26188)
+
+**Quality of Life**
+
+- [Easier Controller Sprint 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/26610)
+- [No Forced Weapon On Carrying Bodies ](https://www.nexusmods.com/cyberpunk2077/mods/9223)
+- [No Intro Videos - redscript 0.8](https://www.nexusmods.com/cyberpunk2077/mods/533)
+
+**Bug Fixes**
+
+- [Immersion Patch - Holdin' On 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/25792)
+- [Immersion Patch - Quest Vehicle Motion Fixes 1.3.0](https://www.nexusmods.com/cyberpunk2077/mods/24772)
+- [Item Records Fixes 1.0](https://www.nexusmods.com/cyberpunk2077/mods/25019)
+- [Stats Bar UI Fix 1.0](https://www.nexusmods.com/cyberpunk2077/mods/24925)
+- [Throwing Weapon Kerenzikov Fix 1.0](https://www.nexusmods.com/cyberpunk2077/mods/26327)
+
+**Utility**
+
+- [Deceptious Quest Core Utilities and Settings 1.2.1](https://www.nexusmods.com/cyberpunk2077/mods/24404)
+- [Perk Addition Framework 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/22758)
+
+### Updated Mods
+
+**Gameplay Mechanics**
+
+- [Melee Attacks Fixes And Enhancements 0.41](https://www.nexusmods.com/cyberpunk2077/mods/16921)
+- [Radial Breach 1.2.2](https://www.nexusmods.com/cyberpunk2077/mods/21077)
+- [Stealth Finishers 2.1.0-beta](https://www.nexusmods.com/cyberpunk2077/mods/9360)
+- [Stealthrunner 1.9.1](https://www.nexusmods.com/cyberpunk2077/mods/7616)
+- [Trace Position Overhaul 2.1.2](https://www.nexusmods.com/cyberpunk2077/mods/12445)
+
+**Quests**
+
+- [Californication 3.1.1](https://www.nexusmods.com/cyberpunk2077/mods/7833)
+- [One More Light 2.1.5](https://www.nexusmods.com/cyberpunk2077/mods/7834)
+
+**NPC Interactions**
+
+- [Immersive Vik 2.1.0](https://www.nexusmods.com/cyberpunk2077/mods/6794)
+- [I Really Want To Stay At Your House - Kerry 3.3.1](https://www.nexusmods.com/cyberpunk2077/mods/8806)
+- [Judy Romanced Enhanced 2.4.2](https://www.nexusmods.com/cyberpunk2077/mods/4508)
+- [Kerry Romanced Enhanced 2.2.1](https://www.nexusmods.com/cyberpunk2077/mods/4990)
+- [Panam Romanced Enhanced 2.6.1](https://www.nexusmods.com/cyberpunk2077/mods/4626)
+- [Romance Hangouts Enhanced 2.3.0](https://www.nexusmods.com/cyberpunk2077/mods/11590)
+
+**World Interactions**
+
+- [Immersive Food Vendors 1.2.1](https://www.nexusmods.com/cyberpunk2077/mods/7322)
+- [Say Something Damn It 1.14.0](https://www.nexusmods.com/cyberpunk2077/mods/22228)
+
+**Vehicles and Driving**
+
+- [Vehicle Summon Tweaks - Dismiss 2.3.3](https://www.nexusmods.com/cyberpunk2077/mods/4658)
+
+**Weapons**
+
+- [DR-10 Wormhole Smart Revolver 1.0.3](https://www.nexusmods.com/cyberpunk2077/mods/10541)
+- [Extra Iconics 2.1.0](https://www.nexusmods.com/cyberpunk2077/mods/15889)
+- [Rostovic Koplje Smart Precision Rifle 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/10830)
+- [Weapon Handling Control 2.2.2](https://www.nexusmods.com/cyberpunk2077/mods/11474)
+
+**Cyberware**
+
+- [Alternative Berserk 1.0.3](https://www.nexusmods.com/cyberpunk2077/mods/20393)
+- [Gorilla Grapple 1.4](https://www.nexusmods.com/cyberpunk2077/mods/14183)
+- [Optical Camo Realism and Utility - Camo Partial CD 2.0.2](https://www.nexusmods.com/cyberpunk2077/mods/15308)
+
+**UI**
+
+- [Better Armor Tooltip 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/9706)
+- [Crafting Recipe Owned and Iconic Labels 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/11261)
+- [Filter Saves by Lifepath and Type 1.6.2](https://www.nexusmods.com/cyberpunk2077/mods/3400)
+- [Limited HUD 2.21.5](https://www.nexusmods.com/cyberpunk2077/mods/2592)
+- [Muted Markers 2.3.5](https://www.nexusmods.com/cyberpunk2077/mods/1727)
+- [Native Settings UI Side Menu Add-on 1.3.11](https://www.nexusmods.com/cyberpunk2077/mods/16218)
+- [Untrack Quest Ultimate 3.3.2](https://www.nexusmods.com/cyberpunk2077/mods/6328)
+
+**Quality of Life**
+
+- [Clear Skill Checks 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/2805)
+- [Custom Quickslots 5.3.1](https://www.nexusmods.com/cyberpunk2077/mods/3096)
+- [Non-Canon Romances Enhanced 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/20466)
+
+**Bug Fixes**
+
+- [Quickhack Fixes 1.2.21](https://www.nexusmods.com/cyberpunk2077/mods/18290)
+- [Silver Pixel Cloud Drive-in Gates Game Bug Patch 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/23573)
+- [Status Bar Bug Fixes 1.8](https://www.nexusmods.com/cyberpunk2077/mods/4316)
+
+**Utility**
+
+- [ArchiveXL 1.26.1](https://www.nexusmods.com/cyberpunk2077/mods/4198)
+- [Browser Extension 0.9.7](https://www.nexusmods.com/cyberpunk2077/mods/10038)
+- [Codeware 1.18.1](https://www.nexusmods.com/cyberpunk2077/mods/7780)
+- [Cyber Engine Tweaks 1.37.1](https://www.nexusmods.com/cyberpunk2077/mods/107)
+- [Deceptious Quest Core 3.1.5](https://www.nexusmods.com/cyberpunk2077/mods/7831)
+- [TweakXL 1.11.3](https://www.nexusmods.com/cyberpunk2077/mods/4197)
+- [VendorsXL 2.1.0](https://www.nexusmods.com/cyberpunk2077/mods/19679)
+
+### Removed Mods
+
+- [Base Fists and Arm Cyberware Attack Speed Fix](https://www.nexusmods.com/cyberpunk2077/mods/14130)
+- [Better Movement - QOL Jog 1.0](https://www.nexusmods.com/cyberpunk2077/mods/20234)
+- [Disappearing Enemy Health Bar Fix LHUD 1.0](https://www.nexusmods.com/cyberpunk2077/mods/19815)
+- [Disappearing Enemy Health Bar Fix - Show Player Health Bar When Scanning 1.1](https://www.nexusmods.com/cyberpunk2077/mods/19815)
+- [Disappearing NPC and Vehicle Fix 1.0](https://www.nexusmods.com/cyberpunk2077/mods/19628)
+- [Divided Faster Projectiles 1.0](https://www.nexusmods.com/cyberpunk2077/mods/16950)
+- [Overclock Health-RAM Drain Bug Fix 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/17414)
+- [Inventory Sorting Improved 1.0](https://www.nexusmods.com/cyberpunk2077/mods/23628)
+- [Less Samurai 1.2](https://www.nexusmods.com/cyberpunk2077/mods/16129)
+- [Streaming Bug Workaround 0.25](https://www.nexusmods.com/cyberpunk2077/mods/22857)
+- [Mute Menu Inventory and Scan Humming 1.2](https://www.nexusmods.com/cyberpunk2077/mods/18781)
+
+</details>
+
+<details markdown="1">
 <summary>Revision 480 - September 17, 2025</summary>
 
 ### Added Mods
@@ -184,7 +342,6 @@ nav_order: 5
 - [Revised Backpack 0.9.10](https://www.nexusmods.com/cyberpunk2077/mods/17642)
 - [Rita Wheeler Romanced 2.4.0](https://www.nexusmods.com/cyberpunk2077/mods/9191)
 - [TV Mute Control 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/14149)
-
 
 </details>
 
