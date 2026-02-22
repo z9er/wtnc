@@ -111,24 +111,6 @@ this is a test answer
 
 </details>
 
-### NMA
-
-<div style="margin-bottom: 1rem;"></div>
-<details markdown="1">
-<summary>I don't see the initial CET keybind popup, what do I do?</summary>
-
-this is a test answer
-
-</details>
-
-<div style="margin-bottom: 1rem;"></div>
-<details markdown="1">
-<summary>Do I have to start the game through NMA?</summary>
-
-this is a test answer
-
-</details>
-
 ### Vortex
 
 <div style="margin-bottom: 1rem;"></div>
