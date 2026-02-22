@@ -119,14 +119,6 @@ this is a test answer
 
 <div style="margin-bottom: 1rem;"></div>
 <details markdown="1">
-<summary>I added No Intro Videos to Vortex and there's an infinite black screen at the beginning of the game, how do I correct this?</summary>
-
-this is a test answer
-
-</details>
-
-<div style="margin-bottom: 1rem;"></div>
-<details markdown="1">
 <summary>I added Sit Anywhere/Lean Anywhere and my HUD disappeared, what should I do?</summary>
 
 this is a test answer
