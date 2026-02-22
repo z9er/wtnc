@@ -39,14 +39,6 @@ this is a test answer
 
 <div style="margin-bottom: 1rem;"></div>
 <details markdown="1">
-<summary>Why can't I interact with the container at the end of an NCPD mission?</summary>
-
-this is a test answer
-
-</details>
-
-<div style="margin-bottom: 1rem;"></div>
-<details markdown="1">
 <summary>Why is Sasquatch freezing during the bossfight?</summary>
 
 this is a test answer
