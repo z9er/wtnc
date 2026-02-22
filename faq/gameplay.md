@@ -93,11 +93,3 @@ this is a test answer
 
 </details>
 
-<div style="margin-bottom: 1rem;"></div>
-<details markdown="1">
-<summary>Why can't I stealth kill an enemy with my Gwynbleidd?</summary>
-
-this is a test answer
-
-</details>
-
